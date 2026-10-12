@@ -1,0 +1,145 @@
+// English copy for the multi-page site (the page text that is not age/pose/food data).
+// Translators: keep every key and array length identical. Keep {placeholders} untouched. Keep the brand "HealthyWorld" in Latin letters.
+module.exports = {
+  // ---------- shell ----------
+  skip: 'Skip to content',
+  menu: 'Menu',
+  nav_home: 'Home', nav_ages: 'Age guides', nav_yoga: 'Yoga', nav_ex: 'Home exercises', nav_food: 'Healthy food',
+  nav_label: 'Main navigation', lang_label: 'Language', crumb_label: 'Breadcrumb',
+  f_tagline: 'Simple, age-wise guidance on food, fitness and skin care for the whole family.',
+  f_guides: 'Age guides', f_explore: 'Explore', f_about: 'HealthyWorld', f_rights: 'All rights reserved.',
+  p_about: 'About us', p_contact: 'Contact', p_privacy: 'Privacy policy', p_disclaimer: 'Medical disclaimer',
+
+  // ---------- home ----------
+  home_title: 'HealthyWorld: Age-wise Diet, Health Routine, Skin Care, Yoga and Home Exercises',
+  home_desc: 'Free, simple health guides for every age: diet plans, daily routines, skin care, and yoga and home exercises with animated demos in English, Urdu, Hindi and Arabic.',
+  hero_eyebrow: 'Free health guides in 4 languages',
+  hero_title: 'Healthy habits for every age',
+  hero_lead: 'Pick your age and get a diet plan, a daily health routine and a skin care routine made for you. Then follow our animated yoga and home workouts.',
+  picker_title: 'Find your plan', picker_btn: 'Show my plan', picker_hint: 'Type your age or choose a group below.',
+  hero_cta2: 'Watch the exercises',
+  hs1_n: '6', hs1_l: 'age groups', hs2_n: '30', hs2_l: 'animated moves', hs3_n: '4', hs3_l: 'languages',
+  ages_title: 'A guide for every stage of life',
+  ages_sub: 'Growing, working or slowing down, your body needs different things. Choose your age group to see them.',
+  age_cta: 'Open guide',
+  feat_title: 'Everything in one calm place',
+  feat_sub: 'Food, routine, skin and movement, explained in plain language.',
+  feat1_t: 'Diet that fits your age', feat1_d: 'Simple meal ideas with everyday foods like daal, roti, dahi and fruit.',
+  feat2_t: 'Daily health routine', feat2_d: 'Sleep, water, movement and check-ups, made simple.',
+  feat3_t: 'Skin care by age', feat3_d: 'Morning and night steps that suit your skin at every stage.',
+  feat4_t: 'Yoga and home exercises', feat4_d: 'Beginner to advanced, with no gym or equipment needed.',
+  sim_title: 'Watch every move before you try it',
+  sim_sub: 'Each yoga pose and exercise comes with an animated demo, the right pace and clear safety tips.',
+  sim_yoga: 'Explore yoga', sim_ex: 'Explore home exercises',
+  how_title: 'How it works',
+  how1_t: 'Choose your age', how1_d: 'Type your age or pick a group. Every guide is written for that stage of life.',
+  how2_t: 'Follow your plan', how2_d: 'Read your meals, daily habits and skin care steps. Start with one change at a time.',
+  how3_t: 'Move and eat well', how3_d: 'Watch the animated demos, build up slowly and enjoy healthy everyday food.',
+  food_home_title: 'Eat well with foods you already know',
+  food_home_sub: 'Fruit, daal, roti, dahi, nuts and more, with easy swaps for your daily snacks.',
+  food_cta: 'See the food guide',
+  trust_title: 'Information you can rely on',
+  trust_d: 'Our guides follow widely accepted public health advice, such as WHO recommendations on activity, sleep and salt. They are general information and not medical advice.',
+
+  // ---------- age pages ----------
+  age_page_title: 'Health Guide for {name} ({label}): Diet, Routine and Skin Care',
+  age_page_desc: 'Diet plan, daily health routine, skin care and exercise ideas for {name} aged {label}. Simple, practical and free.',
+  age_h1: 'Health guide for {name}',
+  age_badge: 'Ages {label}',
+  a_diet: 'Diet', a_health: 'Health routine', a_skin: 'Skin care', a_move: 'Exercise',
+  sec_diet_title: 'Diet and nutrition', sec_health_title: 'Daily health routine',
+  sec_skin_title: 'Skin care routine', sec_move_title: 'Yoga and exercise for this age',
+  sec_move_sub: 'Safe, suitable moves chosen for {name}. Tap one to watch the animation.',
+  skin_kit: 'Skin care basics',
+  pr_cleanser: 'Cleanser', pr_serum: 'Serum', pr_moisturiser: 'Moisturiser', pr_sunscreen: 'Sunscreen',
+  see_all_yoga: 'All yoga poses', see_all_ex: 'All home exercises',
+  other_ages: 'Not your age group?', other_ages_sub: 'Open the guide for another age.',
+  prev_age: 'Previous age group', next_age: 'Next age group',
+  meal_img_alt: 'Illustration of {meal}',
+
+  // ---------- yoga / exercises ----------
+  yoga_page_title: 'Yoga for Beginners to Advanced: Animated Poses and Guides',
+  yoga_page_desc: '15 yoga poses from beginner to advanced with animated demos, breathing cues, hold times and safety tips.',
+  yoga_h1: 'Yoga from beginner to advanced',
+  yoga_lead: 'Watch each pose move with the breath, then follow along at your own pace. Start at Beginner and build up slowly.',
+  ex_page_title: 'Home Exercises Without Equipment: Beginner to Advanced',
+  ex_page_desc: '15 home exercises from beginner to advanced with animated demos, reps, sets and safety tips. No gym needed.',
+  ex_h1: 'Home exercises, beginner to advanced',
+  ex_lead: 'No gym and no equipment. Watch the animated demo, copy the movement and build up slowly.',
+  st_pick_yoga: 'Choose a pose', st_pick_ex: 'Choose an exercise',
+  st_all: 'All levels',
+  lvl1_d: 'New to this? Start here.', lvl2_d: 'Comfortable with the basics.', lvl3_d: 'Strong, flexible and experienced.',
+  st_play: 'Play', st_pause: 'Pause', st_speed: 'Speed', st_slow: 'Slow', st_norm: 'Normal',
+  st_round: 'Round', st_now: 'Now showing', st_dose: 'Practice', st_level: 'Level', st_watch: 'Watch',
+  ph_in: 'Breathe in', ph_out: 'Breathe out', ph_hold: 'Hold and breathe', ph_down: 'Lower', ph_up: 'Push up', ph_rest: 'Rest', ph_switch: 'Switch sides',
+  reduce_motion: 'Animation is paused because your device asks for reduced motion. Press Play to watch.',
+  routine_yoga_title: '10-minute starter flow',
+  routine_yoga_sub: 'A gentle routine for beginners. Do each pose in order, breathing slowly.',
+  routine_ex_title: '15-minute starter workout',
+  routine_ex_sub: 'Do each move for its set, then rest for 30 seconds before the next one.',
+  tips_title_yoga: 'Before you begin', tips_title_ex: 'Before you begin',
+  tips_yoga: ['Practise on a mat or a non-slip surface, ideally on an empty stomach.', 'Breathe slowly through your nose and let the breath lead the movement.', 'Go to a comfortable stretch, never to pain, and stay within your own range.', 'Finish with a few quiet breaths in a seated pose.'],
+  tips_ex: ['Warm up with 5 minutes of marching or easy stretching.', 'Choose good form over speed and keep your back straight.', 'Drink water and rest 30 to 60 seconds between sets.', 'Exercise 3 to 5 days a week and give your body rest days.'],
+
+  // ---------- food ----------
+  food_page_title: 'Healthy Food Guide: Everyday Foods, Easy Swaps and Eating Tips',
+  food_page_desc: 'A simple guide to healthy everyday foods, easy swaps for snacks and drinks, and smart eating tips for the whole family.',
+  food_h1: 'Healthy food guide',
+  food_lead: 'Simple foods you already know, grouped by what they do for your body, with easy swaps and eating tips.',
+  plate_title: 'The healthy plate', plate_sub: 'A simple way to build every meal.',
+  plate_veg: 'Vegetables and fruit', plate_pro: 'Protein', plate_gr: 'Whole grains',
+  plate_note: 'Add a glass of water and a small amount of healthy fat such as nuts or olive oil.',
+  meals_title: 'Meal ideas through the day', meals_sub: 'Simple, balanced ideas you can cook at home.',
+  meal_b_d: 'Eggs or oats with fruit and a glass of milk.',
+  meal_l_d: 'Daal or chicken with roti or rice and a fresh salad.',
+  meal_s_d: 'Fruit, roasted chana or a handful of nuts.',
+  meal_d_d: 'Light vegetables or soup with a little protein.',
+  food_age_cta: 'Get a diet plan for your age', food_age_sub: 'Meal ideas, portions and water targets for every age group.',
+
+  // ---------- about ----------
+  about_title: 'About HealthyWorld', about_desc: 'HealthyWorld makes simple, age-wise guidance on food, fitness and skin care free for everyone, in English, Urdu, Hindi and Arabic.',
+  about_h1: 'About HealthyWorld',
+  about_lead: 'HealthyWorld is a free guide to everyday health for every age, written in plain language and available in four languages.',
+  about_sections: [
+    { h: 'Our mission', p: ['Good health advice should be easy to find, easy to understand and available in the language you speak at home. We bring diet, daily routines, skin care, yoga and home exercise together in one calm, simple place.'] },
+    { h: 'What you will find here', p: ['Six age-wise guides with meal ideas, daily habits and skin care steps. Fifteen yoga poses and fifteen home exercises with animated demos from beginner to advanced. A food guide with everyday foods, easy swaps and eating tips.'] },
+    { h: 'How we write our guides', p: ['We write in plain language and check our advice against widely accepted public health guidance, such as World Health Organization recommendations on physical activity, sleep and salt. We prefer small, realistic steps over extreme plans.'] },
+    { h: 'Who this is for', p: ['Students, parents, working adults and older family members who want practical health information without jargon. Everyone can use it free of charge.'] },
+    { h: 'Important limits', p: ['HealthyWorld shares general information. It is not a medical service and does not replace a doctor, dietitian or physiotherapist. Please read our medical disclaimer.'] }
+  ],
+
+  // ---------- contact ----------
+  contact_title: 'Contact HealthyWorld', contact_desc: 'Get in touch with the HealthyWorld team with questions, feedback or corrections.',
+  contact_h1: 'Contact us',
+  contact_lead: 'Questions, feedback or a correction? We would love to hear from you.',
+  contact_email_label: 'Email', contact_resp: 'We read every message and reply as soon as we can.',
+  form_name: 'Your name', form_email: 'Your email', form_msg: 'Your message', form_send: 'Send message',
+  form_note: 'This opens your email app with your message ready to send.',
+  contact_medical: 'We cannot give personal medical advice. For health problems please see a doctor.',
+
+  // ---------- privacy ----------
+  privacy_title: 'Privacy Policy', privacy_desc: 'How HealthyWorld handles information, cookies and advertising.',
+  privacy_h1: 'Privacy policy', privacy_updated: 'Last updated: 11 October 2026',
+  privacy_sections: [
+    { h: 'Overview', p: ['Your privacy matters to us. This policy explains what information HealthyWorld uses and how. We do not ask you to create an account and we do not ask for personal health details.'] },
+    { h: 'Information we collect', p: ['We do not collect your name or contact details unless you email us. The age and language you choose are saved only in your own browser (local storage) so the site can remember them. They are not sent to us.', 'Like most websites, our hosting provider may keep basic technical logs such as IP address, browser type and the pages visited, for security and reliability.'] },
+    { h: 'Cookies and advertising', p: ['We may show ads served by third-party vendors such as Google. These vendors use cookies to show ads based on your previous visits to this and other websites. Google\'s use of advertising cookies lets it and its partners serve ads to you based on your visit to our site and other sites on the internet.', 'You can opt out of personalised advertising by visiting Google Ads Settings or www.aboutads.info. You can also control cookies in your browser settings.'] },
+    { h: 'Analytics', p: ['We may use analytics tools to understand how many people visit and which pages are useful. These tools may use cookies and collect anonymous usage data.'] },
+    { h: 'Links to other websites', p: ['Our pages may link to other websites. We are not responsible for the privacy practices or content of those sites, so please read their policies.'] },
+    { h: 'Children', p: ['HealthyWorld is meant to be read by families. We do not knowingly collect personal information from children. Parents and guardians should guide children when they use the internet.'] },
+    { h: 'Your choices', p: ['You can clear the data saved in your browser at any time, block cookies, or ask us to answer questions about this policy by email.'] },
+    { h: 'Changes to this policy', p: ['We may update this policy from time to time. The date at the top shows when it was last changed.'] }
+  ],
+
+  // ---------- disclaimer ----------
+  disc_title: 'Medical Disclaimer', disc_desc: 'HealthyWorld shares general health information and is not medical advice.',
+  disc_h1: 'Medical disclaimer', disc_updated: 'Last updated: 11 October 2026',
+  disc_sections: [
+    { h: 'General information only', p: ['Everything on HealthyWorld is for general education and information. It is not medical advice, diagnosis or treatment, and it is not a substitute for the care of a qualified health professional.'] },
+    { h: 'Talk to a professional', p: ['Always speak to a doctor, dietitian or other qualified professional before you change your diet, start an exercise programme or begin a new skin care routine. This is especially important if you are pregnant, have a medical condition, take medicines or have an injury.'] },
+    { h: 'Exercise and yoga', p: ['Physical activity carries some risk. Warm up, move within your comfort, and stop if you feel pain, dizziness or breathlessness. Advanced poses such as the headstand should be learned with a qualified teacher.'] },
+    { h: 'Food and nutrition', p: ['Nutrition needs differ from person to person. Allergies, intolerances and medical conditions can change what is safe for you to eat. Our meal ideas are examples, not a prescription.'] },
+    { h: 'Accuracy', p: ['We work to keep our information accurate and up to date, but health knowledge changes and we cannot guarantee that everything is complete or error free.'] },
+    { h: 'Emergencies', p: ['If you think you or someone else has a medical emergency, contact your local emergency services or go to the nearest hospital straight away. Do not rely on this website.'] }
+  ]
+};

@@ -1,0 +1,2398 @@
+{
+ "en": {
+  "ui": {
+   "nav_plan": "My plan",
+   "nav_move": "Yoga & exercise",
+   "nav_food": "Healthy food",
+   "nav_label": "Sections",
+   "lang_label": "Language",
+   "hero_title": "Healthy habits for every age",
+   "hero_lead": "Choose your age to get a diet plan, a daily health routine and a skin care routine made for you. Then explore yoga, home workouts and everyday healthy foods.",
+   "age_label": "Your age",
+   "years": "years",
+   "age_minus": "Decrease age",
+   "age_plus": "Increase age",
+   "hint_default": "Type your age or tap an age group. Your plan updates instantly.",
+   "hint_range": "Please enter an age between 5 and 100.",
+   "hint_young": "Children under 5 have special needs. Please ask a paediatrician.",
+   "plan_for": "Your plan for",
+   "stat_sleep": "Sleep (hours)",
+   "stat_water": "Water (glasses)",
+   "stat_move": "Activity (min/day)",
+   "tab_diet": "Diet",
+   "tab_health": "Health routine",
+   "tab_skin": "Skin care",
+   "h_tips": "Eating guide",
+   "h_meals": "Sample day",
+   "breakfast": "Breakfast",
+   "lunch": "Lunch",
+   "snack": "Snack",
+   "dinner": "Dinner",
+   "h_water": "Water",
+   "h_limit": "Limit",
+   "h_habits": "Daily habits",
+   "h_checkups": "Check-ups",
+   "h_am": "Morning",
+   "h_pm": "Night",
+   "h_weekly": "Weekly care",
+   "h_avoid": "Avoid",
+   "skin_note": "Patch-test new products on a small area first. See a dermatologist if a problem lasts more than a few weeks.",
+   "move_title": "Yoga and home exercises",
+   "move_sub": "No gym or equipment needed. Pick a type and a level, and start at Beginner if you are new.",
+   "m_yoga": "Yoga",
+   "m_ex": "Home exercises",
+   "m_type_label": "Type",
+   "m_level_label": "Level",
+   "lvl1": "Beginner",
+   "lvl2": "Intermediate",
+   "lvl3": "Advanced",
+   "u_sec": "seconds",
+   "u_min": "minutes",
+   "u_rounds": "rounds",
+   "u_secSide": "seconds per side",
+   "u_reps": "reps",
+   "u_repsSide": "reps per side",
+   "safe_title": "Stay safe",
+   "safe_yoga": "Warm up first and never force a pose. Breathe slowly and skip any pose that hurts. Ask a doctor first if you are pregnant or have back, neck, heart or blood pressure problems. Learn advanced poses such as the headstand with a qualified teacher.",
+   "safe_ex": "Warm up for 5 minutes and stretch afterwards. Rest 30–60 seconds between sets and keep your back straight. Stop if you feel sharp pain, and ask a doctor first if you have a heart, joint or blood pressure condition.",
+   "food_title": "Healthy food guide",
+   "food_sub": "Simple foods you already know, grouped by what they do for your body.",
+   "swap_title": "Easy swaps",
+   "tips_title": "Eat smart",
+   "limit_title": "Eat less of",
+   "disclaimer": "HealthyWorld shares general wellness information and is not medical advice. If you have a health condition, are pregnant or take medicines, please talk to a doctor or dietitian before changing your diet or exercise."
+  },
+  "groups": {
+   "g1": {
+    "name": "Children",
+    "intro": "Growing bodies need regular meals, plenty of play and good sleep.",
+    "diet": {
+     "goal": "Give steady energy for growth and learning with simple, balanced home meals.",
+     "tips": [
+      "Include milk, yogurt or cheese 2–3 times a day for strong bones.",
+      "Add iron-rich foods such as daal, eggs, meat and green leafy vegetables.",
+      "Offer fruit and vegetables at every meal and let your child choose between two options."
+     ],
+     "meals": {
+      "b": "Omelette with a whole wheat roti and a glass of milk",
+      "l": "Daal or chicken curry with roti and cucumber salad",
+      "s": "Fruit, roasted chana or a small bowl of yogurt",
+      "d": "Vegetable curry with roti or rice and a bowl of dahi"
+     },
+     "water": "About 5–7 glasses a day, more in hot weather or after play.",
+     "limit": "Fizzy drinks, packaged juices, chips and sweets. Keep them for rare treats."
+    },
+    "health": {
+     "habits": [
+      "Keep the same sleep and wake-up time every day, including weekends.",
+      "Play outside for at least 60 minutes daily.",
+      "Wash hands before meals and after the toilet, and brush teeth twice a day.",
+      "Limit recreational screen time to about 1–2 hours a day."
+     ],
+     "checkups": "Yearly check-up with growth and vision review, a dental visit every 6 months, and vaccinations on schedule."
+    },
+    "skin": {
+     "am": [
+      "Wash the face with lukewarm water and a mild, fragrance-free cleanser.",
+      "Apply a light moisturiser if the skin feels dry.",
+      "Use SPF 30+ sunscreen on face, ears and arms before going out."
+     ],
+     "pm": [
+      "Wash off dirt and sweat after play.",
+      "Moisturise dry areas such as elbows, knees and cheeks.",
+      "Keep nails short and clean."
+     ],
+     "weekly": [
+      "Bathe at least every other day. No scrubbing or exfoliation is needed."
+     ],
+     "avoid": [
+      "Makeup, anti-ageing products and strong active ingredients.",
+      "Scented soaps and very hot water."
+     ]
+    }
+   },
+   "g2": {
+    "name": "Teens",
+    "intro": "Growth spurts and hormones raise your need for energy, iron and calcium.",
+    "diet": {
+     "goal": "Fuel growth, studies and sport with regular meals instead of skipping meals or crash dieting.",
+     "tips": [
+      "Never skip breakfast. It helps you focus in class.",
+      "Get iron from daal, beans, meat and spinach, and calcium from milk and yogurt.",
+      "Choose home snacks like nuts, fruit or chana chaat over fast food and energy drinks."
+     ],
+     "meals": {
+      "b": "Omelette or oats with milk, plus a fruit",
+      "l": "Chicken or daal with 2 rotis and salad",
+      "s": "A handful of nuts, a banana or yogurt",
+      "d": "Vegetables with rice or roti and a protein such as egg, fish or lentils"
+     },
+     "water": "About 7–8 glasses a day, and extra during sport.",
+     "limit": "Energy drinks, soda, frequent fast food and crash diets."
+    },
+    "health": {
+     "habits": [
+      "Sleep 8–10 hours and keep your phone away from your bed.",
+      "Be active for at least 60 minutes a day with a sport or workout you enjoy.",
+      "Talk to a parent, teacher or doctor if stress or low mood lasts more than two weeks.",
+      "Shower daily, wear clean clothes and stay away from tobacco and vapes."
+     ],
+     "checkups": "Yearly check-up, an eye test, a dental visit every 6 months, and an iron check if you often feel tired."
+    },
+    "skin": {
+     "am": [
+      "Wash with a gentle gel or foaming cleanser.",
+      "Apply an oil-free (non-comedogenic) moisturiser.",
+      "Use SPF 30+ sunscreen, even on cloudy days."
+     ],
+     "pm": [
+      "Wash your face again, especially after sport or sweating.",
+      "Dab benzoyl peroxide 2.5% or salicylic acid on spots if needed.",
+      "Moisturise lightly with an oil-free product."
+     ],
+     "weekly": [
+      "Change your pillowcase and towel once a week.",
+      "Exfoliate gently once a week at most, and only if your skin is not irritated."
+     ],
+     "avoid": [
+      "Picking or squeezing pimples. It causes scars.",
+      "Harsh scrubs, toothpaste on spots and heavy makeup.",
+      "Washing more than twice a day."
+     ]
+    }
+   },
+   "g3": {
+    "name": "Young adults",
+    "intro": "Build habits now that protect your heart, bones and skin for decades.",
+    "diet": {
+     "goal": "Keep your energy steady and your weight healthy with balanced plates and home cooking.",
+     "tips": [
+      "Fill half your plate with vegetables and fruit, a quarter with protein and a quarter with whole grains.",
+      "Add protein (egg, daal, chicken, fish, yogurt) to every meal.",
+      "Cook at home more often and use less oil."
+     ],
+     "meals": {
+      "b": "Oats or eggs with a whole wheat roti and fruit",
+      "l": "Grilled chicken or daal, 1–2 rotis or brown rice, and salad",
+      "s": "Fruit, roasted chana or unsalted nuts",
+      "d": "Light vegetables with protein, eaten 2–3 hours before sleep"
+     },
+     "water": "About 8–10 glasses a day (2–2.5 litres).",
+     "limit": "Sugary drinks, deep-fried snacks and heavy late-night meals."
+    },
+    "health": {
+     "habits": [
+      "Sleep 7–9 hours at a regular time.",
+      "Exercise 150 minutes a week and take a short walk every hour of desk work.",
+      "Manage stress with deep breathing, prayer or meditation, hobbies and time with friends.",
+      "Avoid smoking and keep screens away for the last hour before bed."
+     ],
+     "checkups": "Check blood pressure, blood sugar and weight once a year, and visit the dentist every 6 months."
+    },
+    "skin": {
+     "am": [
+      "Cleanse with a gentle cleanser.",
+      "Apply a vitamin C serum (optional) and a light moisturiser.",
+      "Finish with SPF 30–50 sunscreen and reapply every 2–3 hours outdoors."
+     ],
+     "pm": [
+      "Remove sunscreen and makeup first, then cleanse again.",
+      "Start retinol 2–3 nights a week at a low strength (skip it in pregnancy).",
+      "Apply moisturiser."
+     ],
+     "weekly": [
+      "Exfoliate gently once or twice a week with a mild AHA or BHA, not a harsh scrub."
+     ],
+     "avoid": [
+      "Sleeping with makeup on.",
+      "Sunbathing and skipping sunscreen."
+     ]
+    }
+   },
+   "g4": {
+    "name": "Adults",
+    "intro": "Metabolism slows down, so heart, blood sugar and bone health need more attention.",
+    "diet": {
+     "goal": "Keep your weight steady and protect your heart with fibre, lean protein, less salt and less sugar.",
+     "tips": [
+      "Choose whole grains (atta roti, oats, daliya) over white bread and white rice.",
+      "Eat fish, chicken or lentils, and use olive or canola oil in small amounts.",
+      "Keep salt below 5 g (about 1 teaspoon) a day and cut down on sweets and sugary tea."
+     ],
+     "meals": {
+      "b": "Oats or a vegetable omelette with whole wheat roti",
+      "l": "Daal or fish with vegetables, 1 roti and salad",
+      "s": "An apple, a guava or a small handful of almonds",
+      "d": "Light soup, grilled chicken or vegetable curry. Avoid heavy late meals"
+     },
+     "water": "About 8–9 glasses a day, more in summer.",
+     "limit": "Refined flour, fried snacks, sweet drinks and extra salt."
+    },
+    "health": {
+     "habits": [
+      "Sleep 7–9 hours and keep a fixed bedtime.",
+      "Walk or cycle 30 minutes on most days and do strength exercises twice a week.",
+      "Stretch daily and take breaks from sitting to protect your back.",
+      "Make time for rest and family, and talk about stress early."
+     ],
+     "checkups": "Check blood pressure, blood sugar, cholesterol and eyes every year, and ask your doctor which screenings you need."
+    },
+    "skin": {
+     "am": [
+      "Cleanse gently.",
+      "Apply an antioxidant (vitamin C) serum and a moisturiser.",
+      "Use SPF 50 sunscreen every day."
+     ],
+     "pm": [
+      "Cleanse and apply a toner if you like.",
+      "Use a retinol or niacinamide serum. Start slowly, a few nights a week.",
+      "Apply a richer night cream and an eye cream."
+     ],
+     "weekly": [
+      "Exfoliate gently once a week and use a hydrating mask."
+     ],
+     "avoid": [
+      "Smoking, which speeds up wrinkles.",
+      "Hot water and harsh scrubs that dry the skin."
+     ]
+    }
+   },
+   "g5": {
+    "name": "Mature adults",
+    "intro": "Bones, muscles and skin need extra care, and prevention matters most.",
+    "diet": {
+     "goal": "Protect your heart, bones and muscles with calcium, vitamin D, fibre and enough protein.",
+     "tips": [
+      "Eat calcium and vitamin D foods daily: milk, yogurt, small fish, eggs and a little morning sunshine.",
+      "Add fibre from vegetables, fruit, daal and whole grains for digestion and heart health.",
+      "Reduce salt and sugar, and take healthy fats from olive oil, nuts and fish."
+     ],
+     "meals": {
+      "b": "Oats or daliya with milk and fruit",
+      "l": "Daal or fish with vegetables, 1 roti and yogurt",
+      "s": "Roasted chana, fruit or walnuts",
+      "d": "Vegetable soup or a light curry with a small portion of protein"
+     },
+     "water": "About 8 glasses a day, even if you do not feel thirsty.",
+     "limit": "Salty pickles and snacks, sweets, fried food and heavy meals at night."
+    },
+    "health": {
+     "habits": [
+      "Sleep 7–9 hours and keep a calm bedtime routine.",
+      "Walk 30 minutes daily and add light strength and balance exercises 2–3 times a week.",
+      "Keep blood pressure and sugar under control and take medicines as advised.",
+      "Stay social and keep your mind active with reading, prayer, hobbies or gardening."
+     ],
+     "checkups": "Yearly checks for blood pressure, sugar, cholesterol, eyes and hearing. Ask about bone density, screenings and vaccines."
+    },
+    "skin": {
+     "am": [
+      "Use a creamy, gentle cleanser.",
+      "Apply a hydrating serum (hyaluronic acid) and a ceramide moisturiser.",
+      "Use SPF 50 sunscreen on face, neck and hands."
+     ],
+     "pm": [
+      "Cleanse gently with lukewarm water.",
+      "Use a low-strength retinoid or peptide serum a few nights a week.",
+      "Finish with a rich night cream."
+     ],
+     "weekly": [
+      "Exfoliate gently once a week or less, because skin is thinner now.",
+      "Look over your skin each month and show any new or changing mole to a doctor."
+     ],
+     "avoid": [
+      "Long hot showers and harsh soaps.",
+      "Smoking and too much sun."
+     ]
+    }
+   },
+   "g6": {
+    "name": "Seniors",
+    "intro": "Gentle daily movement, enough protein and safe routines help you stay independent.",
+    "diet": {
+     "goal": "Keep muscles strong and energy steady with small, protein-rich, easy-to-digest meals.",
+     "tips": [
+      "Eat protein at each meal (eggs, daal, yogurt, fish, chicken) to protect muscle.",
+      "Have 4–5 smaller meals if big meals feel heavy, and choose soft, easy-to-chew foods.",
+      "Include calcium, vitamin D and B12 foods and ask your doctor about supplements."
+     ],
+     "meals": {
+      "b": "Soft daliya or oats with milk and a banana",
+      "l": "Soft daal or minced chicken with a small roti and cooked vegetables",
+      "s": "Yogurt, stewed fruit or a few soaked almonds",
+      "d": "Vegetable khichdi or soup with an egg"
+     },
+     "water": "About 6–8 glasses a day. Sip regularly, because thirst fades with age.",
+     "limit": "Extra salt, fried food, sugary drinks and skipped meals."
+    },
+    "health": {
+     "habits": [
+      "Walk 20–30 minutes a day, split into short walks if needed.",
+      "Do gentle balance and leg-strength exercises to prevent falls.",
+      "Take medicines on time and review them with your doctor regularly.",
+      "Keep floors clear, use night lights and stay in touch with family and friends."
+     ],
+     "checkups": "See your doctor at least twice a year. Check blood pressure, sugar, eyes, hearing and teeth, and take the yearly flu vaccine and others your doctor advises."
+    },
+    "skin": {
+     "am": [
+      "Wash with lukewarm water and a fragrance-free cream cleanser.",
+      "Pat dry and apply a thick moisturiser right away.",
+      "Use SPF 30+ on exposed skin and a lip balm."
+     ],
+     "pm": [
+      "Cleanse gently and pat dry, never rub.",
+      "Apply a rich ceramide or urea cream to arms, legs and hands.",
+      "Use a little petroleum jelly on dry heels and elbows."
+     ],
+     "weekly": [
+      "Check your skin and feet, and show any new, changing or non-healing spot to a doctor."
+     ],
+     "avoid": [
+      "Hot water, harsh soaps and strong scrubs.",
+      "Scratching dry, itchy skin. See a doctor if itching continues."
+     ]
+    }
+   }
+  },
+  "move": {
+   "yoga": {
+    "tadasana": {
+     "n": "Mountain Pose",
+     "d": "Stand tall with feet together and arms by your sides. Lengthen your spine and breathe evenly. Improves posture."
+    },
+    "marjari": {
+     "n": "Cat-Cow",
+     "d": "On hands and knees, arch your back as you inhale and round it as you exhale. Warms up the spine."
+    },
+    "balasana": {
+     "n": "Child's Pose",
+     "d": "Sit back on your heels, fold forward and rest your forehead down. Relaxes the back and calms the mind."
+    },
+    "bhujanga": {
+     "n": "Cobra Pose",
+     "d": "Lie on your belly, press your palms down and lift your chest gently. Strengthens the back."
+    },
+    "sukhasana": {
+     "n": "Easy Pose with Breathing",
+     "d": "Sit cross-legged with a straight spine and breathe slowly through the nose. Reduces stress."
+    },
+    "surya": {
+     "n": "Sun Salutation",
+     "d": "A flowing sequence of 12 poses linked with the breath. Warms the whole body and builds stamina."
+    },
+    "adho": {
+     "n": "Downward Dog",
+     "d": "Lift your hips up and back to form an inverted V. Stretches hamstrings, calves and shoulders."
+    },
+    "vira2": {
+     "n": "Warrior II",
+     "d": "Wide stance, front knee bent, arms stretched out and gaze over the front hand. Builds leg strength."
+    },
+    "trikona": {
+     "n": "Triangle Pose",
+     "d": "With legs wide, reach one hand to your shin and the other to the ceiling. Opens the sides of the body."
+    },
+    "setu": {
+     "n": "Bridge Pose",
+     "d": "Lie on your back with knees bent and lift your hips. Strengthens glutes and the back of the legs."
+    },
+    "baka": {
+     "n": "Crow Pose",
+     "d": "Balance on your hands with knees resting on your upper arms. Builds arm and core strength. Practise over a cushion."
+    },
+    "vasistha": {
+     "n": "Side Plank",
+     "d": "Balance on one hand and the edge of one foot with your body in a straight line. Strengthens core and shoulders."
+    },
+    "ardha": {
+     "n": "Half Moon Pose",
+     "d": "Balance on one leg and one hand while the other leg lifts level with your hip. Improves balance and leg strength."
+    },
+    "urdhva": {
+     "n": "Wheel Pose",
+     "d": "Press up from lying down into a full backbend. Opens chest and shoulders. Needs a strong, flexible spine and wrists."
+    },
+    "sirsa": {
+     "n": "Headstand",
+     "d": "Balance upside down on your forearms and head. Only with a teacher or support. Skip it with neck, eye or blood pressure problems."
+    }
+   },
+   "ex": {
+    "wallpush": {
+     "n": "Wall Push-ups",
+     "d": "Stand an arm's length from a wall, bend your elbows to bring your chest close, then push back. A gentle start for chest and arms."
+    },
+    "squat": {
+     "n": "Bodyweight Squats",
+     "d": "Feet shoulder-width apart, sit back as if onto a chair, keep your chest up and push through your heels."
+    },
+    "glute": {
+     "n": "Glute Bridge",
+     "d": "Lie on your back with knees bent, lift your hips and squeeze your glutes at the top."
+    },
+    "march": {
+     "n": "Marching in Place",
+     "d": "Lift your knees one at a time at a steady pace while swinging your arms. A simple cardio warm-up."
+    },
+    "kneeplank": {
+     "n": "Knee Plank",
+     "d": "Hold a straight line from head to knees on your forearms and keep your core tight."
+    },
+    "pushup": {
+     "n": "Push-ups",
+     "d": "Hands under shoulders and body straight, lower your chest to the floor and push back up. Do them on your knees if needed."
+    },
+    "lunge": {
+     "n": "Alternating Lunges",
+     "d": "Step forward, lower until both knees bend to about 90 degrees, then push back to standing."
+    },
+    "plank": {
+     "n": "Plank",
+     "d": "Hold a straight line from head to heels on your forearms or hands. Do not let your hips sag."
+    },
+    "climber": {
+     "n": "Mountain Climbers",
+     "d": "From a high plank, drive your knees towards your chest one after the other at a quick pace."
+    },
+    "dip": {
+     "n": "Chair Dips",
+     "d": "Hands on a sturdy chair behind you, bend your elbows to lower your body and press up. Works the back of the arms."
+    },
+    "burpee": {
+     "n": "Burpees",
+     "d": "Squat, jump your feet back to a plank, return and jump up. A full-body workout that raises your heart rate."
+    },
+    "jumpsquat": {
+     "n": "Jump Squats",
+     "d": "Squat down, then jump up and land softly with bent knees. Builds leg power."
+    },
+    "pike": {
+     "n": "Pike Push-ups",
+     "d": "With hips high in an inverted V, bend your elbows to lower your head towards the floor. Targets the shoulders."
+    },
+    "hollow": {
+     "n": "Hollow Hold",
+     "d": "Lie on your back, lift your shoulders and straight legs off the floor and keep your lower back pressed down."
+    },
+    "split": {
+     "n": "Split Squats",
+     "d": "Place one foot behind you on a chair or bed and lower your front knee. Builds strong legs and balance."
+    }
+   }
+  },
+  "food": {
+   "cats": {
+    "produce": {
+     "n": "Fruits and vegetables",
+     "why": "Give vitamins, minerals and fibre. Aim for 5 portions a day in different colours.",
+     "items": [
+      "Guava",
+      "Oranges and kinnow",
+      "Apples",
+      "Spinach (palak)",
+      "Carrots",
+      "Cucumber"
+     ]
+    },
+    "protein": {
+     "n": "Protein foods",
+     "why": "Build and repair muscle and keep you full for longer.",
+     "items": [
+      "Eggs",
+      "Daal (lentils)",
+      "Chickpeas (chana)",
+      "Chicken",
+      "Fish",
+      "Beans (lobia, rajma)"
+     ]
+    },
+    "grains": {
+     "n": "Whole grains",
+     "why": "Release energy slowly and give fibre for digestion.",
+     "items": [
+      "Whole wheat roti",
+      "Oats",
+      "Brown rice",
+      "Daliya",
+      "Barley (jau)",
+      "Millet (bajra)"
+     ]
+    },
+    "dairy": {
+     "n": "Dairy and calcium",
+     "why": "Support strong bones and teeth. Choose plain, low-sugar options.",
+     "items": [
+      "Milk",
+      "Plain yogurt (dahi)",
+      "Salted lassi",
+      "Paneer",
+      "Buttermilk (chaas)",
+      "Cheese in small amounts"
+     ]
+    },
+    "fats": {
+     "n": "Healthy fats",
+     "why": "Protect the heart and brain when eaten in small amounts.",
+     "items": [
+      "Almonds",
+      "Walnuts",
+      "Olive oil",
+      "Flaxseeds",
+      "Chia seeds",
+      "Oily fish"
+     ]
+    },
+    "drinks": {
+     "n": "Drinks",
+     "why": "Water should be your main drink. Sip through the day.",
+     "items": [
+      "Plain water",
+      "Lemon water, no sugar",
+      "Coconut water",
+      "Green tea",
+      "Chaas",
+      "Herbal tea"
+     ]
+    }
+   },
+   "swaps": [
+    [
+     "Soda or cold drink",
+     "Water with lemon and mint"
+    ],
+    [
+     "Fried samosa or pakora",
+     "Roasted chana or baked snacks"
+    ],
+    [
+     "White bread",
+     "Whole wheat roti or brown bread"
+    ],
+    [
+     "Chips",
+     "Roasted nuts or makhana"
+    ],
+    [
+     "Packaged juice",
+     "A whole fruit"
+    ],
+    [
+     "Sugary tea",
+     "Tea with less or no sugar"
+    ]
+   ],
+   "tips": [
+    "Fill half your plate with vegetables.",
+    "Do not skip breakfast.",
+    "Eat slowly and stop when you are about 80% full.",
+    "Cook with less oil. Grill, boil or bake instead of frying.",
+    "Read food labels and check the sugar and salt."
+   ],
+   "limit": [
+    "Sugary drinks",
+    "Deep-fried snacks",
+    "Processed meats",
+    "Extra salt",
+    "Sweets and bakery items"
+   ]
+  }
+ },
+ "ur": {
+  "ui": {
+   "nav_plan": "میرا پلان",
+   "nav_move": "یوگا اور ورزش",
+   "nav_food": "صحت مند خوراک",
+   "nav_label": "سیکشنز",
+   "lang_label": "زبان",
+   "hero_title": "ہر عمر کے لیے صحت مند عادات",
+   "hero_lead": "اپنی عمر منتخب کریں اور اپنے لیے مخصوص ڈائٹ پلان، روزانہ صحت کا معمول اور جلد کی دیکھ بھال کا طریقہ حاصل کریں۔ پھر یوگا، گھر پر ورزش اور روزمرہ صحت بخش غذائیں دیکھیں۔",
+   "age_label": "آپ کی عمر",
+   "years": "سال",
+   "age_minus": "عمر کم کریں",
+   "age_plus": "عمر بڑھائیں",
+   "hint_default": "اپنی عمر لکھیں یا کوئی عمر کا گروپ چنیں۔ آپ کا پلان فوراً بدل جائے گا۔",
+   "hint_range": "براہ کرم 5 سے 100 کے درمیان عمر درج کریں۔",
+   "hint_young": "5 سال سے کم عمر بچوں کی خاص ضروریات ہوتی ہیں۔ براہ کرم ماہرِ اطفال سے پوچھیں۔",
+   "plan_for": "آپ کا پلان:",
+   "stat_sleep": "نیند (گھنٹے)",
+   "stat_water": "پانی (گلاس)",
+   "stat_move": "سرگرمی (منٹ/دن)",
+   "tab_diet": "خوراک",
+   "tab_health": "صحت کا معمول",
+   "tab_skin": "جلد کی دیکھ بھال",
+   "h_tips": "کھانے کی رہنمائی",
+   "h_meals": "ایک دن کا نمونہ",
+   "breakfast": "ناشتہ",
+   "lunch": "دوپہر کا کھانا",
+   "snack": "ہلکی غذا",
+   "dinner": "رات کا کھانا",
+   "h_water": "پانی",
+   "h_limit": "کم رکھیں",
+   "h_habits": "روزانہ کی عادات",
+   "h_checkups": "طبی معائنہ",
+   "h_am": "صبح",
+   "h_pm": "رات",
+   "h_weekly": "ہفتہ وار دیکھ بھال",
+   "h_avoid": "پرہیز کریں",
+   "skin_note": "کوئی نئی پراڈکٹ پہلے جلد کے چھوٹے حصے پر آزمائیں۔ اگر مسئلہ چند ہفتوں سے زیادہ رہے تو ماہرِ جلد سے رجوع کریں۔",
+   "move_title": "یوگا اور گھر پر ورزش",
+   "move_sub": "جم یا کسی سامان کی ضرورت نہیں۔ قسم اور سطح چنیں، اور اگر نئے ہیں تو ابتدائی سطح سے شروع کریں۔",
+   "m_yoga": "یوگا",
+   "m_ex": "گھریلو ورزش",
+   "m_type_label": "قسم",
+   "m_level_label": "سطح",
+   "lvl1": "ابتدائی",
+   "lvl2": "درمیانی",
+   "lvl3": "ایڈوانس",
+   "u_sec": "سیکنڈ",
+   "u_min": "منٹ",
+   "u_rounds": "راؤنڈ",
+   "u_secSide": "سیکنڈ ہر طرف",
+   "u_reps": "بار",
+   "u_repsSide": "بار ہر طرف",
+   "safe_title": "احتیاط",
+   "safe_yoga": "پہلے جسم کو گرم کریں اور کسی آسن کو زبردستی نہ کریں۔ آہستہ سانس لیں اور جو آسن تکلیف دے اسے چھوڑ دیں۔ حمل ہو یا کمر، گردن، دل یا بلڈ پریشر کا مسئلہ ہو تو پہلے ڈاکٹر سے پوچھیں۔ شیرشاسن جیسے مشکل آسن کسی مستند استاد سے سیکھیں۔",
+   "safe_ex": "5 منٹ وارم اپ کریں اور بعد میں اسٹریچ کریں۔ سیٹس کے درمیان 30 سے 60 سیکنڈ آرام کریں اور کمر سیدھی رکھیں۔ تیز درد ہو تو رک جائیں، اور دل، جوڑوں یا بلڈ پریشر کا مسئلہ ہو تو پہلے ڈاکٹر سے پوچھیں۔",
+   "food_title": "صحت بخش غذا کی گائیڈ",
+   "food_sub": "آسان اور جانی پہچانی غذائیں، اس لحاظ سے ترتیب دی گئی ہیں کہ وہ جسم کے لیے کیا کرتی ہیں۔",
+   "swap_title": "آسان متبادل",
+   "tips_title": "سمجھداری سے کھائیں",
+   "limit_title": "کم کھائیں",
+   "disclaimer": "ہیلتھی ورلڈ عمومی صحت کی معلومات فراہم کرتا ہے اور یہ طبی مشورہ نہیں ہے۔ اگر آپ کو کوئی بیماری ہے، حمل ہے یا آپ دوائیں لیتے ہیں تو خوراک یا ورزش بدلنے سے پہلے ڈاکٹر یا ماہرِ غذائیت سے بات کریں۔"
+  },
+  "groups": {
+   "g1": {
+    "name": "بچے",
+    "intro": "بڑھتے ہوئے جسم کو وقت پر کھانے، خوب کھیل کود اور اچھی نیند کی ضرورت ہوتی ہے۔",
+    "diet": {
+     "goal": "سادہ اور متوازن گھریلو کھانوں سے نشوونما اور پڑھائی کے لیے مستقل توانائی دیں۔",
+     "tips": [
+      "مضبوط ہڈیوں کے لیے دن میں 2 سے 3 بار دودھ، دہی یا پنیر دیں۔",
+      "آئرن سے بھرپور غذائیں شامل کریں، جیسے دال، انڈے، گوشت اور سبز پتوں والی سبزیاں۔",
+      "ہر کھانے میں پھل اور سبزی رکھیں اور بچے کو دو میں سے ایک چننے دیں۔"
+     ],
+     "meals": {
+      "b": "انڈے کا آملیٹ، ایک گندم کی روٹی اور ایک گلاس دودھ",
+      "l": "دال یا چکن کا سالن، روٹی اور کھیرے کا سلاد",
+      "s": "پھل، بھنے چنے یا دہی کا چھوٹا پیالہ",
+      "d": "سبزی کا سالن، روٹی یا چاول اور ایک پیالہ دہی"
+     },
+     "water": "دن میں تقریباً 5 سے 7 گلاس، گرمی میں یا کھیل کے بعد زیادہ۔",
+     "limit": "سافٹ ڈرنکس، ڈبے کے جوس، چپس اور میٹھی چیزیں۔ انہیں کبھی کبھار کے لیے رکھیں۔"
+    },
+    "health": {
+     "habits": [
+      "ہر روز، چھٹی کے دن بھی، سونے اور جاگنے کا وقت ایک جیسا رکھیں۔",
+      "روزانہ کم از کم 60 منٹ باہر کھیلیں۔",
+      "کھانے سے پہلے اور بیت الخلا کے بعد ہاتھ دھوئیں، اور دن میں دو بار برش کریں۔",
+      "تفریحی اسکرین ٹائم تقریباً 1 سے 2 گھنٹے روزانہ تک رکھیں۔"
+     ],
+     "checkups": "سالانہ معائنہ جس میں قد، وزن اور نظر دیکھی جائے، ہر 6 ماہ بعد دانتوں کا چیک اپ، اور ٹیکے شیڈول کے مطابق۔"
+    },
+    "skin": {
+     "am": [
+      "چہرہ نیم گرم پانی اور ہلکے، بغیر خوشبو والے کلینزر سے دھوئیں۔",
+      "جلد خشک لگے تو ہلکا موئسچرائزر لگائیں۔",
+      "باہر جانے سے پہلے چہرے، کانوں اور بازوؤں پر SPF 30+ سن اسکرین لگائیں۔"
+     ],
+     "pm": [
+      "کھیل کود کے بعد مٹی اور پسینہ دھو دیں۔",
+      "کہنیوں، گھٹنوں اور گالوں جیسی خشک جگہوں پر موئسچرائزر لگائیں۔",
+      "ناخن چھوٹے اور صاف رکھیں۔"
+     ],
+     "weekly": [
+      "کم از کم ایک دن چھوڑ کر نہائیں۔ رگڑنے یا اسکرب کی ضرورت نہیں۔"
+     ],
+     "avoid": [
+      "میک اپ، اینٹی ایجنگ اور تیز ایکٹو اجزا والی پراڈکٹس۔",
+      "خوشبو والے صابن اور بہت گرم پانی۔"
+     ]
+    }
+   },
+   "g2": {
+    "name": "نوعمر",
+    "intro": "قد بڑھنے اور ہارمونز کی تبدیلی سے توانائی، آئرن اور کیلشیم کی ضرورت بڑھ جاتی ہے۔",
+    "diet": {
+     "goal": "کھانا چھوڑنے یا سخت ڈائٹنگ کے بجائے باقاعدہ کھانوں سے نشوونما، پڑھائی اور کھیل کے لیے توانائی حاصل کریں۔",
+     "tips": [
+      "ناشتہ کبھی نہ چھوڑیں۔ اس سے کلاس میں توجہ بہتر رہتی ہے۔",
+      "آئرن دال، پھلیوں، گوشت اور پالک سے اور کیلشیم دودھ اور دہی سے لیں۔",
+      "فاسٹ فوڈ اور انرجی ڈرنکس کے بجائے گھر کے اسنیکس چنیں، جیسے میوے، پھل یا چنا چاٹ۔"
+     ],
+     "meals": {
+      "b": "آملیٹ یا دلیہ دودھ کے ساتھ اور ایک پھل",
+      "l": "چکن یا دال، 2 روٹیاں اور سلاد",
+      "s": "مٹھی بھر میوے، ایک کیلا یا دہی",
+      "d": "سبزیاں چاول یا روٹی کے ساتھ اور پروٹین جیسے انڈا، مچھلی یا دال"
+     },
+     "water": "دن میں تقریباً 7 سے 8 گلاس، اور کھیل کے دوران مزید۔",
+     "limit": "انرجی ڈرنکس، سوڈا، بار بار فاسٹ فوڈ اور سخت ڈائٹنگ۔"
+    },
+    "health": {
+     "habits": [
+      "روزانہ 8 سے 10 گھنٹے سوئیں اور فون بستر سے دور رکھیں۔",
+      "کسی پسندیدہ کھیل یا ورزش کے ساتھ روزانہ کم از کم 60 منٹ متحرک رہیں۔",
+      "اگر ذہنی دباؤ یا اداسی دو ہفتے سے زیادہ رہے تو والدین، استاد یا ڈاکٹر سے بات کریں۔",
+      "روزانہ نہائیں، صاف کپڑے پہنیں اور تمباکو اور ویپ سے دور رہیں۔"
+     ],
+     "checkups": "سالانہ معائنہ، آنکھوں کا ٹیسٹ، ہر 6 ماہ بعد دانتوں کا چیک اپ، اور اگر اکثر تھکن رہے تو آئرن کی جانچ۔"
+    },
+    "skin": {
+     "am": [
+      "ہلکے جیل یا فوم کلینزر سے منہ دھوئیں۔",
+      "تیل سے پاک (نان کومیڈوجینک) موئسچرائزر لگائیں۔",
+      "بادلوں والے دن بھی SPF 30+ سن اسکرین لگائیں۔"
+     ],
+     "pm": [
+      "خاص طور پر کھیل یا پسینے کے بعد چہرہ دوبارہ دھوئیں۔",
+      "ضرورت ہو تو دانوں پر بینزوئل پرآکسائیڈ 2.5% یا سیلیسیلک ایسڈ ہلکا سا لگائیں۔",
+      "تیل سے پاک پراڈکٹ سے ہلکا موئسچرائز کریں۔"
+     ],
+     "weekly": [
+      "ہفتے میں ایک بار تکیے کا غلاف اور تولیہ بدلیں۔",
+      "ہفتے میں زیادہ سے زیادہ ایک بار ہلکا ایکسفولی ایٹ کریں، اور صرف تب جب جلد میں جلن نہ ہو۔"
+     ],
+     "avoid": [
+      "دانے نوچنا یا دبانا۔ اس سے داغ پڑتے ہیں۔",
+      "سخت اسکرب، دانوں پر ٹوتھ پیسٹ اور بھاری میک اپ۔",
+      "دن میں دو بار سے زیادہ منہ دھونا۔"
+     ]
+    }
+   },
+   "g3": {
+    "name": "نوجوان بالغ",
+    "intro": "آج ایسی عادات بنائیں جو دہائیوں تک آپ کے دل، ہڈیوں اور جلد کی حفاظت کریں۔",
+    "diet": {
+     "goal": "متوازن پلیٹ اور گھر کے کھانوں سے توانائی مستحکم اور وزن صحت مند رکھیں۔",
+     "tips": [
+      "آدھی پلیٹ سبزی اور پھل، چوتھائی پروٹین اور چوتھائی ثابت اناج سے بھریں۔",
+      "ہر کھانے میں پروٹین (انڈا، دال، چکن، مچھلی، دہی) شامل کریں۔",
+      "گھر پر زیادہ پکائیں اور تیل کم استعمال کریں۔"
+     ],
+     "meals": {
+      "b": "دلیہ یا انڈے، گندم کی روٹی اور پھل",
+      "l": "گرل چکن یا دال، 1 سے 2 روٹیاں یا براؤن رائس اور سلاد",
+      "s": "پھل، بھنے چنے یا بغیر نمک کے میوے",
+      "d": "پروٹین کے ساتھ ہلکی سبزیاں، سونے سے 2 سے 3 گھنٹے پہلے"
+     },
+     "water": "دن میں تقریباً 8 سے 10 گلاس (2 سے 2.5 لیٹر)۔",
+     "limit": "میٹھے مشروبات، تلے ہوئے اسنیکس اور رات گئے بھاری کھانے۔"
+    },
+    "health": {
+     "habits": [
+      "باقاعدہ وقت پر 7 سے 9 گھنٹے سوئیں۔",
+      "ہفتے میں 150 منٹ ورزش کریں اور ڈیسک پر کام کے دوران ہر گھنٹے مختصر چہل قدمی کریں۔",
+      "گہری سانس، نماز یا مراقبہ، مشاغل اور دوستوں کے ساتھ وقت سے ذہنی دباؤ کم کریں۔",
+      "سگریٹ سے بچیں اور سونے سے پہلے آخری گھنٹہ اسکرین سے دور رہیں۔"
+     ],
+     "checkups": "سال میں ایک بار بلڈ پریشر، شوگر اور وزن چیک کروائیں، اور ہر 6 ماہ بعد دانتوں کے ڈاکٹر کے پاس جائیں۔"
+    },
+    "skin": {
+     "am": [
+      "ہلکے کلینزر سے صفائی کریں۔",
+      "وٹامن سی سیرم (اختیاری) اور ہلکا موئسچرائزر لگائیں۔",
+      "آخر میں SPF 30 سے 50 سن اسکرین لگائیں اور باہر ہر 2 سے 3 گھنٹے بعد دوبارہ لگائیں۔"
+     ],
+     "pm": [
+      "پہلے سن اسکرین اور میک اپ اتاریں، پھر دوبارہ صفائی کریں۔",
+      "ہفتے میں 2 سے 3 راتیں کم طاقت کا ریٹینول شروع کریں (حمل میں نہ لگائیں)۔",
+      "موئسچرائزر لگائیں۔"
+     ],
+     "weekly": [
+      "ہفتے میں ایک یا دو بار ہلکے AHA یا BHA سے نرمی سے ایکسفولی ایٹ کریں، سخت اسکرب سے نہیں۔"
+     ],
+     "avoid": [
+      "میک اپ کے ساتھ سونا۔",
+      "دھوپ سینکنا اور سن اسکرین نہ لگانا۔"
+     ]
+    }
+   },
+   "g4": {
+    "name": "بالغ",
+    "intro": "میٹابولزم سست ہو جاتا ہے، اس لیے دل، شوگر اور ہڈیوں کی صحت پر زیادہ توجہ چاہیے۔",
+    "diet": {
+     "goal": "ریشے، کم چکنائی والی پروٹین اور کم نمک و چینی سے وزن مستحکم رکھیں اور دل کی حفاظت کریں۔",
+     "tips": [
+      "سفید ڈبل روٹی اور سفید چاول کے بجائے ثابت اناج چنیں (آٹے کی روٹی، دلیہ، جئی)۔",
+      "مچھلی، چکن یا دالیں کھائیں، اور زیتون یا کینولا کا تیل تھوڑی مقدار میں استعمال کریں۔",
+      "نمک روزانہ 5 گرام (تقریباً ایک چائے کا چمچ) سے کم رکھیں اور مٹھائی اور میٹھی چائے کم کریں۔"
+     ],
+     "meals": {
+      "b": "دلیہ یا سبزی کا آملیٹ گندم کی روٹی کے ساتھ",
+      "l": "دال یا مچھلی سبزیوں کے ساتھ، 1 روٹی اور سلاد",
+      "s": "ایک سیب، امرود یا چند بادام",
+      "d": "ہلکا سوپ، گرل چکن یا سبزی کا سالن۔ رات کو بھاری کھانا نہ کھائیں"
+     },
+     "water": "دن میں تقریباً 8 سے 9 گلاس، گرمیوں میں زیادہ۔",
+     "limit": "میدہ، تلے ہوئے اسنیکس، میٹھے مشروبات اور اضافی نمک۔"
+    },
+    "health": {
+     "habits": [
+      "روزانہ 7 سے 9 گھنٹے سوئیں اور سونے کا وقت مقرر رکھیں۔",
+      "زیادہ تر دنوں میں 30 منٹ پیدل چلیں یا سائیکل چلائیں اور ہفتے میں دو بار طاقت کی ورزش کریں۔",
+      "روزانہ اسٹریچ کریں اور کمر بچانے کے لیے بیٹھے رہنے کے دوران وقفے لیں۔",
+      "آرام اور گھر والوں کے لیے وقت نکالیں اور ذہنی دباؤ کے بارے میں جلد بات کریں۔"
+     ],
+     "checkups": "ہر سال بلڈ پریشر، شوگر، کولیسٹرول اور آنکھیں چیک کروائیں، اور ڈاکٹر سے پوچھیں کہ آپ کو کون سی اسکریننگ چاہیے۔"
+    },
+    "skin": {
+     "am": [
+      "نرمی سے صفائی کریں۔",
+      "اینٹی آکسیڈنٹ (وٹامن سی) سیرم اور موئسچرائزر لگائیں۔",
+      "ہر روز SPF 50 سن اسکرین استعمال کریں۔"
+     ],
+     "pm": [
+      "صفائی کریں اور چاہیں تو ٹونر لگائیں۔",
+      "ریٹینول یا نیاسینامائیڈ سیرم لگائیں۔ آہستہ شروع کریں، ہفتے میں چند راتیں۔",
+      "گاڑھی نائٹ کریم اور آنکھوں کی کریم لگائیں۔"
+     ],
+     "weekly": [
+      "ہفتے میں ایک بار ہلکا ایکسفولی ایٹ کریں اور ہائیڈریٹنگ ماسک لگائیں۔"
+     ],
+     "avoid": [
+      "سگریٹ نوشی، جو جھریاں جلد لے آتی ہے۔",
+      "گرم پانی اور سخت اسکرب جو جلد خشک کرتے ہیں۔"
+     ]
+    }
+   },
+   "g5": {
+    "name": "ادھیڑ عمر",
+    "intro": "ہڈیوں، پٹھوں اور جلد کو اضافی خیال چاہیے، اور بچاؤ سب سے اہم ہے۔",
+    "diet": {
+     "goal": "کیلشیم، وٹامن ڈی، ریشے اور کافی پروٹین سے دل، ہڈیوں اور پٹھوں کی حفاظت کریں۔",
+     "tips": [
+      "روزانہ کیلشیم اور وٹامن ڈی والی غذائیں کھائیں: دودھ، دہی، چھوٹی مچھلی، انڈے اور صبح کی ہلکی دھوپ۔",
+      "ہاضمے اور دل کی صحت کے لیے سبزیوں، پھلوں، دال اور ثابت اناج سے ریشہ لیں۔",
+      "نمک اور چینی کم کریں، اور صحت مند چکنائی زیتون کے تیل، میوں اور مچھلی سے لیں۔"
+     ],
+     "meals": {
+      "b": "دلیہ یا جئی دودھ اور پھل کے ساتھ",
+      "l": "دال یا مچھلی سبزیوں کے ساتھ، 1 روٹی اور دہی",
+      "s": "بھنے چنے، پھل یا اخروٹ",
+      "d": "سبزی کا سوپ یا ہلکا سالن، ساتھ تھوڑی سی پروٹین"
+     },
+     "water": "دن میں تقریباً 8 گلاس، چاہے پیاس نہ لگے۔",
+     "limit": "نمکین اچار اور اسنیکس، مٹھائی، تلی ہوئی چیزیں اور رات کو بھاری کھانا۔"
+    },
+    "health": {
+     "habits": [
+      "روزانہ 7 سے 9 گھنٹے سوئیں اور سونے سے پہلے پرسکون معمول رکھیں۔",
+      "روزانہ 30 منٹ پیدل چلیں اور ہفتے میں 2 سے 3 بار ہلکی طاقت اور توازن کی ورزش شامل کریں۔",
+      "بلڈ پریشر اور شوگر قابو میں رکھیں اور دوائیں ہدایت کے مطابق لیں۔",
+      "لوگوں سے ملتے رہیں اور مطالعہ، نماز، مشاغل یا باغبانی سے ذہن کو متحرک رکھیں۔"
+     ],
+     "checkups": "ہر سال بلڈ پریشر، شوگر، کولیسٹرول، آنکھوں اور سماعت کی جانچ کروائیں۔ ہڈیوں کی کثافت، اسکریننگ اور ٹیکوں کے بارے میں پوچھیں۔"
+    },
+    "skin": {
+     "am": [
+      "کریمی اور نرم کلینزر استعمال کریں۔",
+      "ہائیڈریٹنگ سیرم (ہائیلورونک ایسڈ) اور سیرامائیڈ موئسچرائزر لگائیں۔",
+      "چہرے، گردن اور ہاتھوں پر SPF 50 سن اسکرین لگائیں۔"
+     ],
+     "pm": [
+      "نیم گرم پانی سے نرمی سے صفائی کریں۔",
+      "ہفتے میں چند راتیں کم طاقت کا ریٹینائیڈ یا پیپٹائیڈ سیرم لگائیں۔",
+      "آخر میں گاڑھی نائٹ کریم لگائیں۔"
+     ],
+     "weekly": [
+      "ہفتے میں ایک بار یا اس سے کم نرمی سے ایکسفولی ایٹ کریں، کیونکہ اب جلد پتلی ہے۔",
+      "ہر ماہ اپنی جلد دیکھیں اور کوئی نیا یا بدلتا ہوا تل ڈاکٹر کو دکھائیں۔"
+     ],
+     "avoid": [
+      "دیر تک گرم پانی سے نہانا اور سخت صابن۔",
+      "سگریٹ نوشی اور بہت زیادہ دھوپ۔"
+     ]
+    }
+   },
+   "g6": {
+    "name": "بزرگ",
+    "intro": "ہلکی روزانہ حرکت، کافی پروٹین اور محفوظ معمولات آپ کو خود مختار رکھتے ہیں۔",
+    "diet": {
+     "goal": "چھوٹے، پروٹین سے بھرپور اور آسانی سے ہضم ہونے والے کھانوں سے پٹھے مضبوط اور توانائی مستحکم رکھیں۔",
+     "tips": [
+      "پٹھوں کی حفاظت کے لیے ہر کھانے میں پروٹین (انڈے، دال، دہی، مچھلی، چکن) لیں۔",
+      "بڑے کھانے بھاری لگیں تو دن میں 4 سے 5 چھوٹے کھانے کھائیں، اور نرم اور آسانی سے چبائی جانے والی غذائیں چنیں۔",
+      "کیلشیم، وٹامن ڈی اور بی 12 والی غذائیں شامل کریں اور سپلیمنٹس کے بارے میں ڈاکٹر سے پوچھیں۔"
+     ],
+     "meals": {
+      "b": "نرم دلیہ یا جئی دودھ اور کیلے کے ساتھ",
+      "l": "نرم دال یا قیمہ چکن، چھوٹی روٹی اور پکی ہوئی سبزیاں",
+      "s": "دہی، پکایا ہوا پھل یا چند بھیگے ہوئے بادام",
+      "d": "سبزی کی کھچڑی یا سوپ انڈے کے ساتھ"
+     },
+     "water": "دن میں تقریباً 6 سے 8 گلاس۔ تھوڑا تھوڑا پیتے رہیں، کیونکہ عمر کے ساتھ پیاس کم لگتی ہے۔",
+     "limit": "اضافی نمک، تلی ہوئی چیزیں، میٹھے مشروبات اور کھانا چھوڑ دینا۔"
+    },
+    "health": {
+     "habits": [
+      "روزانہ 20 سے 30 منٹ پیدل چلیں، ضرورت ہو تو چھوٹی چھوٹی سیر میں بانٹ لیں۔",
+      "گرنے سے بچاؤ کے لیے ہلکی توازن اور ٹانگوں کی طاقت کی ورزشیں کریں۔",
+      "دوائیں وقت پر لیں اور ڈاکٹر کے ساتھ ان کا باقاعدگی سے جائزہ لیں۔",
+      "فرش صاف رکھیں، رات کو ہلکی روشنی رکھیں اور گھر والوں اور دوستوں سے رابطے میں رہیں۔"
+     ],
+     "checkups": "سال میں کم از کم دو بار ڈاکٹر کو دکھائیں۔ بلڈ پریشر، شوگر، آنکھیں، سماعت اور دانت چیک کروائیں، اور سالانہ فلو کا ٹیکا اور ڈاکٹر کے بتائے دوسرے ٹیکے لگوائیں۔"
+    },
+    "skin": {
+     "am": [
+      "نیم گرم پانی اور بغیر خوشبو والے کریم کلینزر سے دھوئیں۔",
+      "تھپتھپا کر خشک کریں اور فوراً گاڑھا موئسچرائزر لگائیں۔",
+      "کھلی جلد پر SPF 30+ اور ہونٹوں پر لپ بام لگائیں۔"
+     ],
+     "pm": [
+      "نرمی سے دھوئیں اور تھپتھپا کر خشک کریں، رگڑیں نہیں۔",
+      "بازوؤں، ٹانگوں اور ہاتھوں پر سیرامائیڈ یا یوریا والی گاڑھی کریم لگائیں۔",
+      "خشک ایڑیوں اور کہنیوں پر تھوڑی سی پیٹرولیم جیلی لگائیں۔"
+     ],
+     "weekly": [
+      "اپنی جلد اور پیروں کو دیکھیں، اور کوئی نیا، بدلتا ہوا یا نہ بھرنے والا زخم ڈاکٹر کو دکھائیں۔"
+     ],
+     "avoid": [
+      "گرم پانی، سخت صابن اور تیز اسکرب۔",
+      "خشک اور خارش والی جلد کو کھجانا۔ خارش جاری رہے تو ڈاکٹر کو دکھائیں۔"
+     ]
+    }
+   }
+  },
+  "move": {
+   "yoga": {
+    "tadasana": {
+     "n": "پہاڑی آسن",
+     "d": "پاؤں ملا کر اور بازو پہلوؤں میں رکھ کر سیدھے کھڑے ہوں۔ ریڑھ کی ہڈی کو لمبا کریں اور برابر سانس لیں۔ کھڑے ہونے کا انداز بہتر ہوتا ہے۔"
+    },
+    "marjari": {
+     "n": "بلی اور گائے کا آسن",
+     "d": "ہاتھوں اور گھٹنوں کے بل ہوں، سانس لیتے ہوئے کمر کو اندر کی طرف جھکائیں اور سانس چھوڑتے ہوئے اوپر کی طرف گول کریں۔ ریڑھ کی ہڈی کو گرم کرتا ہے۔"
+    },
+    "balasana": {
+     "n": "بچے کا آسن",
+     "d": "ایڑیوں پر بیٹھیں، آگے جھکیں اور پیشانی زمین پر رکھیں۔ کمر کو آرام دیتا ہے اور ذہن کو پرسکون کرتا ہے۔"
+    },
+    "bhujanga": {
+     "n": "کوبرا آسن",
+     "d": "پیٹ کے بل لیٹیں، ہتھیلیاں زمین پر دبائیں اور سینہ آہستہ اوپر اٹھائیں۔ کمر کو مضبوط کرتا ہے۔"
+    },
+    "sukhasana": {
+     "n": "آرام دہ آسن اور سانس کی مشق",
+     "d": "ٹانگیں موڑ کر سیدھی کمر کے ساتھ بیٹھیں اور ناک سے آہستہ سانس لیں۔ ذہنی دباؤ کم کرتا ہے۔"
+    },
+    "surya": {
+     "n": "سوریہ نمسکار",
+     "d": "12 آسنوں کا بہتا ہوا سلسلہ جو سانس کے ساتھ جڑا ہوتا ہے۔ پورے جسم کو گرم کرتا ہے اور سکت بڑھاتا ہے۔"
+    },
+    "adho": {
+     "n": "نیچے جھکا کتا",
+     "d": "کولہوں کو اوپر اور پیچھے اٹھائیں تاکہ الٹا V بنے۔ پنڈلیوں، رانوں کے پچھلے حصے اور کندھوں کو کھینچتا ہے۔"
+    },
+    "vira2": {
+     "n": "جنگجو آسن دوم",
+     "d": "ٹانگیں کھلی، اگلا گھٹنا مڑا ہوا، بازو پھیلے ہوئے اور نظر اگلے ہاتھ پر۔ ٹانگوں کی طاقت بڑھاتا ہے۔"
+    },
+    "trikona": {
+     "n": "مثلث آسن",
+     "d": "ٹانگیں کھول کر ایک ہاتھ پنڈلی تک اور دوسرا چھت کی طرف لے جائیں۔ جسم کے پہلو کھولتا ہے۔"
+    },
+    "setu": {
+     "n": "پل آسن",
+     "d": "کمر کے بل لیٹیں، گھٹنے موڑیں اور کولہے اوپر اٹھائیں۔ کولہوں اور ٹانگوں کے پچھلے حصے کو مضبوط کرتا ہے۔"
+    },
+    "baka": {
+     "n": "کوے کا آسن",
+     "d": "ہاتھوں پر توازن رکھیں اور گھٹنے بازوؤں کے اوپری حصے پر ٹکائیں۔ بازوؤں اور پیٹ کے پٹھے مضبوط کرتا ہے۔ تکیے کے اوپر مشق کریں۔"
+    },
+    "vasistha": {
+     "n": "سائیڈ پلانک",
+     "d": "ایک ہاتھ اور ایک پاؤں کے کنارے پر جسم کو سیدھی لکیر میں رکھ کر توازن بنائیں۔ پیٹ کے پٹھوں اور کندھوں کو مضبوط کرتا ہے۔"
+    },
+    "ardha": {
+     "n": "نصف چاند آسن",
+     "d": "ایک ٹانگ اور ایک ہاتھ پر توازن رکھیں جبکہ دوسری ٹانگ کولہے کی سطح تک اٹھی ہو۔ توازن اور ٹانگوں کی طاقت بہتر کرتا ہے۔"
+    },
+    "urdhva": {
+     "n": "چکر آسن",
+     "d": "لیٹی ہوئی حالت سے اوپر اٹھ کر مکمل پیچھے کی طرف جھکاؤ بنائیں۔ سینہ اور کندھے کھولتا ہے۔ مضبوط اور لچکدار ریڑھ اور کلائیاں چاہییں۔"
+    },
+    "sirsa": {
+     "n": "سر کے بل آسن",
+     "d": "بازوؤں اور سر پر الٹا توازن رکھیں۔ صرف استاد یا سہارے کے ساتھ کریں۔ گردن، آنکھ یا بلڈ پریشر کا مسئلہ ہو تو نہ کریں۔"
+    }
+   },
+   "ex": {
+    "wallpush": {
+     "n": "دیوار پر پش اپس",
+     "d": "دیوار سے ایک بازو کے فاصلے پر کھڑے ہوں، کہنیاں موڑ کر سینہ دیوار کے قریب لائیں، پھر واپس دھکیلیں۔ سینے اور بازوؤں کے لیے نرم آغاز۔"
+    },
+    "squat": {
+     "n": "باڈی ویٹ اسکواٹس",
+     "d": "پاؤں کندھوں کے برابر کھولیں، جیسے کرسی پر بیٹھ رہے ہوں ویسے پیچھے بیٹھیں، سینہ اوپر رکھیں اور ایڑیوں سے زور لگائیں۔"
+    },
+    "glute": {
+     "n": "گلوٹ برج",
+     "d": "گھٹنے موڑ کر کمر کے بل لیٹیں، کولہے اوپر اٹھائیں اور اوپر پہنچ کر انہیں سکیڑیں۔"
+    },
+    "march": {
+     "n": "جگہ پر مارچ",
+     "d": "بازو ہلاتے ہوئے ایک ایک کر کے گھٹنے مستقل رفتار سے اوپر اٹھائیں۔ آسان کارڈیو وارم اپ۔"
+    },
+    "kneeplank": {
+     "n": "گھٹنوں پر پلانک",
+     "d": "بازوؤں کے سہارے سر سے گھٹنوں تک سیدھی لکیر بنائیں اور پیٹ کے پٹھے سخت رکھیں۔"
+    },
+    "pushup": {
+     "n": "پش اپس",
+     "d": "ہاتھ کندھوں کے نیچے اور جسم سیدھا رکھ کر سینہ زمین کی طرف جھکائیں اور واپس اوپر دھکیلیں۔ ضرورت ہو تو گھٹنوں پر کریں۔"
+    },
+    "lunge": {
+     "n": "باری باری لنجز",
+     "d": "آگے قدم بڑھائیں، دونوں گھٹنے تقریباً 90 ڈگری مڑنے تک نیچے جائیں، پھر دھکیل کر کھڑے ہو جائیں۔"
+    },
+    "plank": {
+     "n": "پلانک",
+     "d": "بازوؤں یا ہاتھوں کے سہارے سر سے ایڑیوں تک سیدھی لکیر رکھیں۔ کولہوں کو نیچے نہ گرنے دیں۔"
+    },
+    "climber": {
+     "n": "ماؤنٹین کلائمبرز",
+     "d": "اونچی پلانک سے ایک کے بعد ایک گھٹنے تیزی سے سینے کی طرف لائیں۔"
+    },
+    "dip": {
+     "n": "کرسی پر ڈپس",
+     "d": "مضبوط کرسی پر ہاتھ اپنے پیچھے رکھیں، کہنیاں موڑ کر جسم نیچے لائیں اور اوپر دھکیلیں۔ بازو کے پچھلے حصے پر کام کرتی ہے۔"
+    },
+    "burpee": {
+     "n": "برپیز",
+     "d": "اسکواٹ کریں، پاؤں پیچھے پلانک میں پھینکیں، واپس آئیں اور اوپر چھلانگ لگائیں۔ پورے جسم کی ورزش جو دل کی دھڑکن بڑھاتی ہے۔"
+    },
+    "jumpsquat": {
+     "n": "جمپ اسکواٹس",
+     "d": "اسکواٹ میں نیچے جائیں، پھر اوپر چھلانگ لگائیں اور مڑے ہوئے گھٹنوں کے ساتھ نرمی سے اتریں۔ ٹانگوں کی طاقت بڑھاتی ہے۔"
+    },
+    "pike": {
+     "n": "پائیک پش اپس",
+     "d": "کولہے اونچے رکھ کر الٹے V کی شکل میں کہنیاں موڑیں اور سر کو زمین کی طرف لائیں۔ کندھوں پر کام کرتی ہے۔"
+    },
+    "hollow": {
+     "n": "ہولو ہولڈ",
+     "d": "کمر کے بل لیٹیں، کندھے اور سیدھی ٹانگیں زمین سے اٹھائیں اور نچلی کمر زمین سے دبی رکھیں۔"
+    },
+    "split": {
+     "n": "اسپلٹ اسکواٹس",
+     "d": "ایک پاؤں پیچھے کرسی یا بستر پر رکھیں اور اگلا گھٹنا نیچے لائیں۔ مضبوط ٹانگیں اور توازن بناتی ہے۔"
+    }
+   }
+  },
+  "food": {
+   "cats": {
+    "produce": {
+     "n": "پھل اور سبزیاں",
+     "why": "وٹامنز، معدنیات اور ریشہ دیتی ہیں۔ دن میں مختلف رنگوں کی 5 مقداروں کا ہدف رکھیں۔",
+     "items": [
+      "امرود",
+      "مالٹے اور کینو",
+      "سیب",
+      "پالک",
+      "گاجر",
+      "کھیرا"
+     ]
+    },
+    "protein": {
+     "n": "پروٹین والی غذائیں",
+     "why": "پٹھے بناتی اور مرمت کرتی ہیں اور دیر تک پیٹ بھرا رکھتی ہیں۔",
+     "items": [
+      "انڈے",
+      "دالیں",
+      "چنے",
+      "چکن",
+      "مچھلی",
+      "لوبیا اور راجما"
+     ]
+    },
+    "grains": {
+     "n": "ثابت اناج",
+     "why": "توانائی آہستہ آہستہ دیتے ہیں اور ہاضمے کے لیے ریشہ فراہم کرتے ہیں۔",
+     "items": [
+      "گندم کی روٹی",
+      "جئی",
+      "براؤن رائس",
+      "دلیہ",
+      "جو",
+      "باجرہ"
+     ]
+    },
+    "dairy": {
+     "n": "ڈیری اور کیلشیم",
+     "why": "مضبوط ہڈیوں اور دانتوں میں مدد دیتی ہیں۔ سادہ اور کم میٹھی چیزیں چنیں۔",
+     "items": [
+      "دودھ",
+      "سادہ دہی",
+      "نمکین لسی",
+      "پنیر",
+      "چھاچھ",
+      "تھوڑی مقدار میں چیز"
+     ]
+    },
+    "fats": {
+     "n": "صحت مند چکنائی",
+     "why": "تھوڑی مقدار میں کھانے سے دل اور دماغ کی حفاظت کرتی ہیں۔",
+     "items": [
+      "بادام",
+      "اخروٹ",
+      "زیتون کا تیل",
+      "السی کے بیج",
+      "چیا کے بیج",
+      "چکنائی والی مچھلی"
+     ]
+    },
+    "drinks": {
+     "n": "مشروبات",
+     "why": "پانی آپ کا بنیادی مشروب ہونا چاہیے۔ دن بھر تھوڑا تھوڑا پیتے رہیں۔",
+     "items": [
+      "سادہ پانی",
+      "بغیر چینی لیموں پانی",
+      "ناریل پانی",
+      "سبز چائے",
+      "چھاچھ",
+      "ہربل چائے"
+     ]
+    }
+   },
+   "swaps": [
+    [
+     "سوڈا یا کولڈ ڈرنک",
+     "لیموں اور پودینے والا پانی"
+    ],
+    [
+     "تلا ہوا سموسہ یا پکوڑا",
+     "بھنے چنے یا بیک کیے ہوئے اسنیکس"
+    ],
+    [
+     "سفید ڈبل روٹی",
+     "گندم کی روٹی یا براؤن بریڈ"
+    ],
+    [
+     "چپس",
+     "بھنے ہوئے میوے یا مکھانے"
+    ],
+    [
+     "ڈبے کا جوس",
+     "ایک ثابت پھل"
+    ],
+    [
+     "میٹھی چائے",
+     "کم یا بغیر چینی کی چائے"
+    ]
+   ],
+   "tips": [
+    "آدھی پلیٹ سبزیوں سے بھریں۔",
+    "ناشتہ نہ چھوڑیں۔",
+    "آہستہ کھائیں اور تقریباً 80 فیصد پیٹ بھرنے پر رک جائیں۔",
+    "تیل کم استعمال کریں۔ تلنے کے بجائے گرل کریں، ابالیں یا بیک کریں۔",
+    "کھانے کے لیبل پڑھیں اور چینی اور نمک دیکھیں۔"
+   ],
+   "limit": [
+    "میٹھے مشروبات",
+    "تلے ہوئے اسنیکس",
+    "پراسیسڈ گوشت",
+    "اضافی نمک",
+    "مٹھائی اور بیکری کی چیزیں"
+   ]
+  }
+ },
+ "hi": {
+  "ui": {
+   "nav_plan": "मेरा प्लान",
+   "nav_move": "योग और व्यायाम",
+   "nav_food": "सेहतमंद खाना",
+   "nav_label": "सेक्शन",
+   "lang_label": "भाषा",
+   "hero_title": "हर उम्र के लिए सेहतमंद आदतें",
+   "hero_lead": "अपनी उम्र चुनें और अपने लिए बना डाइट प्लान, रोज़ की सेहत की दिनचर्या और त्वचा की देखभाल का तरीका पाएँ। फिर योग, घर पर कसरत और रोज़ के सेहतमंद खाने देखें।",
+   "age_label": "आपकी उम्र",
+   "years": "साल",
+   "age_minus": "उम्र घटाएँ",
+   "age_plus": "उम्र बढ़ाएँ",
+   "hint_default": "अपनी उम्र लिखें या कोई आयु समूह चुनें। आपका प्लान तुरंत बदल जाएगा।",
+   "hint_range": "कृपया 5 से 100 के बीच की उम्र दर्ज करें।",
+   "hint_young": "5 साल से छोटे बच्चों की खास ज़रूरतें होती हैं। कृपया बाल रोग विशेषज्ञ से पूछें।",
+   "plan_for": "आपका प्लान:",
+   "stat_sleep": "नींद (घंटे)",
+   "stat_water": "पानी (गिलास)",
+   "stat_move": "गतिविधि (मिनट/दिन)",
+   "tab_diet": "डाइट",
+   "tab_health": "सेहत की दिनचर्या",
+   "tab_skin": "त्वचा की देखभाल",
+   "h_tips": "खान-पान की सलाह",
+   "h_meals": "एक दिन का नमूना",
+   "breakfast": "नाश्ता",
+   "lunch": "दोपहर का खाना",
+   "snack": "हल्का नाश्ता",
+   "dinner": "रात का खाना",
+   "h_water": "पानी",
+   "h_limit": "कम रखें",
+   "h_habits": "रोज़ की आदतें",
+   "h_checkups": "जाँच",
+   "h_am": "सुबह",
+   "h_pm": "रात",
+   "h_weekly": "साप्ताहिक देखभाल",
+   "h_avoid": "परहेज़ करें",
+   "skin_note": "कोई नया प्रोडक्ट पहले त्वचा के छोटे हिस्से पर आज़माएँ। अगर समस्या कुछ हफ़्तों से ज़्यादा रहे तो त्वचा रोग विशेषज्ञ को दिखाएँ।",
+   "move_title": "योग और घर पर व्यायाम",
+   "move_sub": "जिम या किसी सामान की ज़रूरत नहीं। प्रकार और स्तर चुनें, और नए हैं तो शुरुआती स्तर से शुरू करें।",
+   "m_yoga": "योग",
+   "m_ex": "घरेलू व्यायाम",
+   "m_type_label": "प्रकार",
+   "m_level_label": "स्तर",
+   "lvl1": "शुरुआती",
+   "lvl2": "मध्यम",
+   "lvl3": "उन्नत",
+   "u_sec": "सेकंड",
+   "u_min": "मिनट",
+   "u_rounds": "राउंड",
+   "u_secSide": "सेकंड हर तरफ़",
+   "u_reps": "बार",
+   "u_repsSide": "बार हर तरफ़",
+   "safe_title": "सावधानी",
+   "safe_yoga": "पहले शरीर को गरम करें और किसी आसन को ज़बरदस्ती न करें। धीरे-धीरे साँस लें और जो आसन दर्द दे उसे छोड़ दें। गर्भावस्था हो या कमर, गर्दन, दिल या ब्लड प्रेशर की समस्या हो तो पहले डॉक्टर से पूछें। शीर्षासन जैसे कठिन आसन किसी योग्य प्रशिक्षक से सीखें।",
+   "safe_ex": "5 मिनट वार्म-अप करें और बाद में स्ट्रेचिंग करें। सेट के बीच 30 से 60 सेकंड आराम करें और पीठ सीधी रखें। तेज़ दर्द हो तो रुक जाएँ, और दिल, जोड़ों या ब्लड प्रेशर की समस्या हो तो पहले डॉक्टर से पूछें।",
+   "food_title": "सेहतमंद खाने की गाइड",
+   "food_sub": "जाने-पहचाने सादे खाने, इस आधार पर बाँटे गए कि वे शरीर के लिए क्या करते हैं।",
+   "swap_title": "आसान विकल्प",
+   "tips_title": "समझदारी से खाएँ",
+   "limit_title": "कम खाएँ",
+   "disclaimer": "हेल्दीवर्ल्ड सामान्य सेहत की जानकारी देता है और यह चिकित्सा सलाह नहीं है। अगर आपको कोई बीमारी है, आप गर्भवती हैं या दवाएँ लेते हैं, तो खान-पान या व्यायाम बदलने से पहले डॉक्टर या आहार विशेषज्ञ से बात करें।"
+  },
+  "groups": {
+   "g1": {
+    "name": "बच्चे",
+    "intro": "बढ़ते शरीर को समय पर खाना, खूब खेलकूद और अच्छी नींद चाहिए।",
+    "diet": {
+     "goal": "सादे और संतुलित घर के खाने से विकास और पढ़ाई के लिए लगातार ऊर्जा दें।",
+     "tips": [
+      "मज़बूत हड्डियों के लिए दिन में 2 से 3 बार दूध, दही या पनीर दें।",
+      "आयरन से भरपूर चीज़ें जोड़ें, जैसे दाल, अंडे, मांस और हरी पत्तेदार सब्ज़ियाँ।",
+      "हर भोजन में फल और सब्ज़ी रखें और बच्चे को दो में से एक चुनने दें।"
+     ],
+     "meals": {
+      "b": "अंडे का आमलेट, एक गेहूँ की रोटी और एक गिलास दूध",
+      "l": "दाल या चिकन की सब्ज़ी, रोटी और खीरे का सलाद",
+      "s": "फल, भुने चने या दही की छोटी कटोरी",
+      "d": "सब्ज़ी, रोटी या चावल और एक कटोरी दही"
+     },
+     "water": "दिन में लगभग 5 से 7 गिलास, गर्मी में या खेल के बाद ज़्यादा।",
+     "limit": "कोल्ड ड्रिंक, पैकेट वाले जूस, चिप्स और मिठाइयाँ। इन्हें कभी-कभार के लिए रखें।"
+    },
+    "health": {
+     "habits": [
+      "हर दिन, छुट्टी के दिन भी, सोने और उठने का समय एक जैसा रखें।",
+      "रोज़ कम से कम 60 मिनट बाहर खेलें।",
+      "खाने से पहले और शौचालय के बाद हाथ धोएँ, और दिन में दो बार ब्रश करें।",
+      "मनोरंजन के लिए स्क्रीन का समय रोज़ लगभग 1 से 2 घंटे तक रखें।"
+     ],
+     "checkups": "सालाना जाँच जिसमें कद, वज़न और नज़र देखी जाए, हर 6 महीने में दाँतों की जाँच, और टीके समय पर।"
+    },
+    "skin": {
+     "am": [
+      "चेहरा गुनगुने पानी और हल्के, बिना खुशबू वाले क्लींज़र से धोएँ।",
+      "त्वचा रूखी लगे तो हल्का मॉइस्चराइज़र लगाएँ।",
+      "बाहर जाने से पहले चेहरे, कानों और बाँहों पर SPF 30+ सनस्क्रीन लगाएँ।"
+     ],
+     "pm": [
+      "खेलकूद के बाद मिट्टी और पसीना धो दें।",
+      "कोहनियों, घुटनों और गालों जैसी रूखी जगहों पर मॉइस्चराइज़र लगाएँ।",
+      "नाखून छोटे और साफ़ रखें।"
+     ],
+     "weekly": [
+      "कम से कम एक दिन छोड़कर नहाएँ। रगड़ने या स्क्रब की ज़रूरत नहीं।"
+     ],
+     "avoid": [
+      "मेकअप, एंटी-एजिंग और तेज़ सक्रिय तत्वों वाले प्रोडक्ट।",
+      "खुशबूदार साबुन और बहुत गरम पानी।"
+     ]
+    }
+   },
+   "g2": {
+    "name": "किशोर",
+    "intro": "कद बढ़ने और हार्मोन के बदलाव से ऊर्जा, आयरन और कैल्शियम की ज़रूरत बढ़ जाती है।",
+    "diet": {
+     "goal": "खाना छोड़ने या सख़्त डाइटिंग की बजाय नियमित भोजन से विकास, पढ़ाई और खेल के लिए ऊर्जा पाएँ।",
+     "tips": [
+      "नाश्ता कभी न छोड़ें। इससे कक्षा में ध्यान बेहतर रहता है।",
+      "आयरन दाल, फलियों, मांस और पालक से और कैल्शियम दूध और दही से लें।",
+      "फास्ट फ़ूड और एनर्जी ड्रिंक की जगह घर के स्नैक्स चुनें, जैसे मेवे, फल या चना चाट।"
+     ],
+     "meals": {
+      "b": "आमलेट या दलिया दूध के साथ और एक फल",
+      "l": "चिकन या दाल, 2 रोटियाँ और सलाद",
+      "s": "मुट्ठी भर मेवे, एक केला या दही",
+      "d": "सब्ज़ियाँ चावल या रोटी के साथ और प्रोटीन जैसे अंडा, मछली या दाल"
+     },
+     "water": "दिन में लगभग 7 से 8 गिलास, और खेल के दौरान और ज़्यादा।",
+     "limit": "एनर्जी ड्रिंक, सोडा, बार-बार फास्ट फ़ूड और सख़्त डाइटिंग।"
+    },
+    "health": {
+     "habits": [
+      "रोज़ 8 से 10 घंटे सोएँ और फ़ोन बिस्तर से दूर रखें।",
+      "किसी पसंदीदा खेल या कसरत के साथ रोज़ कम से कम 60 मिनट सक्रिय रहें।",
+      "अगर तनाव या उदासी दो हफ़्ते से ज़्यादा रहे तो माता-पिता, शिक्षक या डॉक्टर से बात करें।",
+      "रोज़ नहाएँ, साफ़ कपड़े पहनें और तंबाकू और वेप से दूर रहें।"
+     ],
+     "checkups": "सालाना जाँच, आँखों की जाँच, हर 6 महीने में दाँतों की जाँच, और अक्सर थकान रहे तो आयरन की जाँच।"
+    },
+    "skin": {
+     "am": [
+      "हल्के जेल या फ़ोम क्लींज़र से चेहरा धोएँ।",
+      "तेल-रहित (नॉन-कॉमेडोजेनिक) मॉइस्चराइज़र लगाएँ।",
+      "बादल वाले दिन भी SPF 30+ सनस्क्रीन लगाएँ।"
+     ],
+     "pm": [
+      "ख़ासकर खेल या पसीने के बाद चेहरा दोबारा धोएँ।",
+      "ज़रूरत हो तो मुँहासों पर बेंज़ॉयल पेरॉक्साइड 2.5% या सैलिसिलिक एसिड हल्का सा लगाएँ।",
+      "तेल-रहित प्रोडक्ट से हल्का मॉइस्चराइज़ करें।"
+     ],
+     "weekly": [
+      "हफ़्ते में एक बार तकिए का कवर और तौलिया बदलें।",
+      "हफ़्ते में ज़्यादा से ज़्यादा एक बार हल्का एक्सफ़ोलिएट करें, और तभी जब त्वचा में जलन न हो।"
+     ],
+     "avoid": [
+      "मुँहासे नोचना या दबाना। इससे दाग़ पड़ते हैं।",
+      "कड़े स्क्रब, मुँहासों पर टूथपेस्ट और भारी मेकअप।",
+      "दिन में दो बार से ज़्यादा चेहरा धोना।"
+     ]
+    }
+   },
+   "g3": {
+    "name": "युवा वयस्क",
+    "intro": "आज ऐसी आदतें बनाएँ जो दशकों तक आपके दिल, हड्डियों और त्वचा की रक्षा करें।",
+    "diet": {
+     "goal": "संतुलित थाली और घर के खाने से ऊर्जा स्थिर और वज़न सेहतमंद रखें।",
+     "tips": [
+      "आधी थाली सब्ज़ी और फल से, चौथाई प्रोटीन से और चौथाई साबुत अनाज से भरें।",
+      "हर भोजन में प्रोटीन (अंडा, दाल, चिकन, मछली, दही) शामिल करें।",
+      "घर पर ज़्यादा पकाएँ और तेल कम इस्तेमाल करें।"
+     ],
+     "meals": {
+      "b": "दलिया या अंडे, गेहूँ की रोटी और फल",
+      "l": "ग्रिल्ड चिकन या दाल, 1 से 2 रोटियाँ या ब्राउन राइस और सलाद",
+      "s": "फल, भुने चने या बिना नमक के मेवे",
+      "d": "प्रोटीन के साथ हल्की सब्ज़ियाँ, सोने से 2 से 3 घंटे पहले"
+     },
+     "water": "दिन में लगभग 8 से 10 गिलास (2 से 2.5 लीटर)।",
+     "limit": "मीठे पेय, तले हुए स्नैक्स और देर रात के भारी खाने।"
+    },
+    "health": {
+     "habits": [
+      "नियमित समय पर 7 से 9 घंटे सोएँ।",
+      "हफ़्ते में 150 मिनट व्यायाम करें और डेस्क पर काम के दौरान हर घंटे थोड़ी सैर करें।",
+      "गहरी साँस, प्रार्थना या ध्यान, शौक़ और दोस्तों के साथ समय से तनाव कम करें।",
+      "धूम्रपान से बचें और सोने से पहले आख़िरी घंटे स्क्रीन से दूर रहें।"
+     ],
+     "checkups": "साल में एक बार ब्लड प्रेशर, शुगर और वज़न की जाँच कराएँ, और हर 6 महीने में दंत चिकित्सक के पास जाएँ।"
+    },
+    "skin": {
+     "am": [
+      "हल्के क्लींज़र से सफ़ाई करें।",
+      "विटामिन सी सीरम (वैकल्पिक) और हल्का मॉइस्चराइज़र लगाएँ।",
+      "आख़िर में SPF 30 से 50 सनस्क्रीन लगाएँ और बाहर हर 2 से 3 घंटे में दोबारा लगाएँ।"
+     ],
+     "pm": [
+      "पहले सनस्क्रीन और मेकअप हटाएँ, फिर दोबारा सफ़ाई करें।",
+      "हफ़्ते में 2 से 3 रातें कम ताक़त का रेटिनॉल शुरू करें (गर्भावस्था में न लगाएँ)।",
+      "मॉइस्चराइज़र लगाएँ।"
+     ],
+     "weekly": [
+      "हफ़्ते में एक या दो बार हल्के AHA या BHA से नरमी से एक्सफ़ोलिएट करें, कड़े स्क्रब से नहीं।"
+     ],
+     "avoid": [
+      "मेकअप के साथ सोना।",
+      "धूप में लेटना और सनस्क्रीन न लगाना।"
+     ]
+    }
+   },
+   "g4": {
+    "name": "वयस्क",
+    "intro": "मेटाबॉलिज़्म धीमा होता है, इसलिए दिल, शुगर और हड्डियों की सेहत पर ज़्यादा ध्यान चाहिए।",
+    "diet": {
+     "goal": "रेशे, कम चर्बी वाले प्रोटीन और कम नमक व चीनी से वज़न स्थिर रखें और दिल की रक्षा करें।",
+     "tips": [
+      "सफ़ेद ब्रेड और सफ़ेद चावल की जगह साबुत अनाज चुनें (आटे की रोटी, दलिया, जई)।",
+      "मछली, चिकन या दालें खाएँ, और जैतून या कैनोला तेल थोड़ी मात्रा में इस्तेमाल करें।",
+      "नमक रोज़ 5 ग्राम (लगभग एक छोटा चम्मच) से कम रखें और मिठाई और मीठी चाय कम करें।"
+     ],
+     "meals": {
+      "b": "दलिया या सब्ज़ी का आमलेट गेहूँ की रोटी के साथ",
+      "l": "दाल या मछली सब्ज़ियों के साथ, 1 रोटी और सलाद",
+      "s": "एक सेब, अमरूद या कुछ बादाम",
+      "d": "हल्का सूप, ग्रिल्ड चिकन या सब्ज़ी। रात को भारी खाना न खाएँ"
+     },
+     "water": "दिन में लगभग 8 से 9 गिलास, गर्मियों में ज़्यादा।",
+     "limit": "मैदा, तले हुए स्नैक्स, मीठे पेय और ज़्यादा नमक।"
+    },
+    "health": {
+     "habits": [
+      "रोज़ 7 से 9 घंटे सोएँ और सोने का समय तय रखें।",
+      "ज़्यादातर दिन 30 मिनट पैदल चलें या साइकिल चलाएँ और हफ़्ते में दो बार ताक़त की कसरत करें।",
+      "रोज़ स्ट्रेचिंग करें और पीठ बचाने के लिए बैठे रहने के बीच ब्रेक लें।",
+      "आराम और परिवार के लिए समय निकालें और तनाव के बारे में जल्दी बात करें।"
+     ],
+     "checkups": "हर साल ब्लड प्रेशर, शुगर, कोलेस्ट्रॉल और आँखों की जाँच कराएँ, और डॉक्टर से पूछें कि आपको कौन-सी स्क्रीनिंग चाहिए।"
+    },
+    "skin": {
+     "am": [
+      "नरमी से सफ़ाई करें।",
+      "एंटीऑक्सीडेंट (विटामिन सी) सीरम और मॉइस्चराइज़र लगाएँ।",
+      "हर दिन SPF 50 सनस्क्रीन इस्तेमाल करें।"
+     ],
+     "pm": [
+      "सफ़ाई करें और चाहें तो टोनर लगाएँ।",
+      "रेटिनॉल या नियासिनामाइड सीरम लगाएँ। धीरे शुरू करें, हफ़्ते में कुछ रातें।",
+      "गाढ़ी नाइट क्रीम और आँखों की क्रीम लगाएँ।"
+     ],
+     "weekly": [
+      "हफ़्ते में एक बार हल्का एक्सफ़ोलिएट करें और हाइड्रेटिंग मास्क लगाएँ।"
+     ],
+     "avoid": [
+      "धूम्रपान, जो झुर्रियाँ जल्दी लाता है।",
+      "गरम पानी और कड़े स्क्रब जो त्वचा को रूखा करते हैं।"
+     ]
+    }
+   },
+   "g5": {
+    "name": "अधेड़ उम्र",
+    "intro": "हड्डियों, मांसपेशियों और त्वचा को अतिरिक्त देखभाल चाहिए, और रोकथाम सबसे अहम है।",
+    "diet": {
+     "goal": "कैल्शियम, विटामिन डी, रेशे और पर्याप्त प्रोटीन से दिल, हड्डियों और मांसपेशियों की रक्षा करें।",
+     "tips": [
+      "रोज़ कैल्शियम और विटामिन डी वाली चीज़ें खाएँ: दूध, दही, छोटी मछली, अंडे और सुबह की हल्की धूप।",
+      "पाचन और दिल की सेहत के लिए सब्ज़ियों, फलों, दाल और साबुत अनाज से रेशा लें।",
+      "नमक और चीनी कम करें, और सेहतमंद चर्बी जैतून के तेल, मेवों और मछली से लें।"
+     ],
+     "meals": {
+      "b": "दलिया या जई दूध और फल के साथ",
+      "l": "दाल या मछली सब्ज़ियों के साथ, 1 रोटी और दही",
+      "s": "भुने चने, फल या अखरोट",
+      "d": "सब्ज़ी का सूप या हल्की सब्ज़ी, साथ में थोड़ा-सा प्रोटीन"
+     },
+     "water": "दिन में लगभग 8 गिलास, चाहे प्यास न लगे।",
+     "limit": "नमकीन अचार और स्नैक्स, मिठाई, तली हुई चीज़ें और रात को भारी खाना।"
+    },
+    "health": {
+     "habits": [
+      "रोज़ 7 से 9 घंटे सोएँ और सोने से पहले शांत दिनचर्या रखें।",
+      "रोज़ 30 मिनट पैदल चलें और हफ़्ते में 2 से 3 बार हल्की ताक़त और संतुलन की कसरत जोड़ें।",
+      "ब्लड प्रेशर और शुगर क़ाबू में रखें और दवाएँ सलाह के अनुसार लें।",
+      "लोगों से मिलते रहें और पढ़ने, प्रार्थना, शौक़ या बाग़वानी से दिमाग़ को सक्रिय रखें।"
+     ],
+     "checkups": "हर साल ब्लड प्रेशर, शुगर, कोलेस्ट्रॉल, आँखों और सुनने की जाँच कराएँ। हड्डियों के घनत्व, स्क्रीनिंग और टीकों के बारे में पूछें।"
+    },
+    "skin": {
+     "am": [
+      "क्रीमी और नरम क्लींज़र इस्तेमाल करें।",
+      "हाइड्रेटिंग सीरम (हायलुरोनिक एसिड) और सेरामाइड मॉइस्चराइज़र लगाएँ।",
+      "चेहरे, गर्दन और हाथों पर SPF 50 सनस्क्रीन लगाएँ।"
+     ],
+     "pm": [
+      "गुनगुने पानी से नरमी से सफ़ाई करें।",
+      "हफ़्ते में कुछ रातें कम ताक़त का रेटिनॉइड या पेप्टाइड सीरम लगाएँ।",
+      "आख़िर में गाढ़ी नाइट क्रीम लगाएँ।"
+     ],
+     "weekly": [
+      "हफ़्ते में एक बार या उससे कम नरमी से एक्सफ़ोलिएट करें, क्योंकि अब त्वचा पतली है।",
+      "हर महीने अपनी त्वचा देखें और कोई नया या बदलता हुआ तिल डॉक्टर को दिखाएँ।"
+     ],
+     "avoid": [
+      "देर तक गरम पानी से नहाना और कड़े साबुन।",
+      "धूम्रपान और बहुत ज़्यादा धूप।"
+     ]
+    }
+   },
+   "g6": {
+    "name": "बुज़ुर्ग",
+    "intro": "हल्की रोज़ की हलचल, पर्याप्त प्रोटीन और सुरक्षित दिनचर्या आपको आत्मनिर्भर रखती है।",
+    "diet": {
+     "goal": "छोटे, प्रोटीन से भरपूर और आसानी से पचने वाले भोजन से मांसपेशियाँ मज़बूत और ऊर्जा स्थिर रखें।",
+     "tips": [
+      "मांसपेशियों की रक्षा के लिए हर भोजन में प्रोटीन (अंडे, दाल, दही, मछली, चिकन) लें।",
+      "बड़ा खाना भारी लगे तो दिन में 4 से 5 छोटे भोजन करें, और नरम, आसानी से चबाने वाली चीज़ें चुनें।",
+      "कैल्शियम, विटामिन डी और बी12 वाली चीज़ें शामिल करें और सप्लीमेंट के बारे में डॉक्टर से पूछें।"
+     ],
+     "meals": {
+      "b": "नरम दलिया या जई दूध और केले के साथ",
+      "l": "नरम दाल या कीमा चिकन, छोटी रोटी और पकी सब्ज़ियाँ",
+      "s": "दही, पका हुआ फल या कुछ भीगे बादाम",
+      "d": "सब्ज़ी की खिचड़ी या सूप अंडे के साथ"
+     },
+     "water": "दिन में लगभग 6 से 8 गिलास। थोड़ा-थोड़ा पीते रहें, क्योंकि उम्र के साथ प्यास कम लगती है।",
+     "limit": "ज़्यादा नमक, तली हुई चीज़ें, मीठे पेय और भोजन छोड़ देना।"
+    },
+    "health": {
+     "habits": [
+      "रोज़ 20 से 30 मिनट पैदल चलें, ज़रूरत हो तो छोटी-छोटी सैर में बाँट लें।",
+      "गिरने से बचाव के लिए हल्की संतुलन और पैरों की ताक़त की कसरत करें।",
+      "दवाएँ समय पर लें और डॉक्टर के साथ नियमित रूप से उनकी समीक्षा करें।",
+      "फ़र्श साफ़ रखें, रात को हल्की रोशनी रखें और परिवार और दोस्तों से जुड़े रहें।"
+     ],
+     "checkups": "साल में कम से कम दो बार डॉक्टर को दिखाएँ। ब्लड प्रेशर, शुगर, आँखें, सुनना और दाँत जँचवाएँ, और सालाना फ़्लू का टीका और डॉक्टर के बताए दूसरे टीके लगवाएँ।"
+    },
+    "skin": {
+     "am": [
+      "गुनगुने पानी और बिना खुशबू वाले क्रीम क्लींज़र से धोएँ।",
+      "थपथपाकर सुखाएँ और तुरंत गाढ़ा मॉइस्चराइज़र लगाएँ।",
+      "खुली त्वचा पर SPF 30+ और होंठों पर लिप बाम लगाएँ।"
+     ],
+     "pm": [
+      "नरमी से धोएँ और थपथपाकर सुखाएँ, रगड़ें नहीं।",
+      "बाँहों, पैरों और हाथों पर सेरामाइड या यूरिया वाली गाढ़ी क्रीम लगाएँ।",
+      "रूखी एड़ियों और कोहनियों पर थोड़ी पेट्रोलियम जेली लगाएँ।"
+     ],
+     "weekly": [
+      "अपनी त्वचा और पैरों को देखें, और कोई नया, बदलता हुआ या न भरने वाला घाव डॉक्टर को दिखाएँ।"
+     ],
+     "avoid": [
+      "गरम पानी, कड़े साबुन और तेज़ स्क्रब।",
+      "रूखी और खुजली वाली त्वचा को खुजलाना। खुजली जारी रहे तो डॉक्टर को दिखाएँ।"
+     ]
+    }
+   }
+  },
+  "move": {
+   "yoga": {
+    "tadasana": {
+     "n": "पर्वत आसन",
+     "d": "पैर मिलाकर और बाँहें बगल में रखकर सीधे खड़े हों। रीढ़ को लंबा करें और बराबर साँस लें। खड़े होने का ढंग बेहतर होता है।"
+    },
+    "marjari": {
+     "n": "बिल्ली-गाय आसन",
+     "d": "हाथों और घुटनों के बल हों, साँस लेते हुए पीठ को अंदर की ओर झुकाएँ और साँस छोड़ते हुए ऊपर की ओर गोल करें। रीढ़ को गरम करता है।"
+    },
+    "balasana": {
+     "n": "बाल आसन",
+     "d": "एड़ियों पर बैठें, आगे झुकें और माथा ज़मीन पर रखें। पीठ को आराम देता है और मन को शांत करता है।"
+    },
+    "bhujanga": {
+     "n": "भुजंग आसन",
+     "d": "पेट के बल लेटें, हथेलियाँ ज़मीन पर दबाएँ और सीना धीरे से ऊपर उठाएँ। पीठ को मज़बूत करता है।"
+    },
+    "sukhasana": {
+     "n": "सुखासन और साँस का अभ्यास",
+     "d": "पालथी मारकर सीधी पीठ के साथ बैठें और नाक से धीरे-धीरे साँस लें। तनाव कम करता है।"
+    },
+    "surya": {
+     "n": "सूर्य नमस्कार",
+     "d": "12 आसनों का बहता हुआ क्रम जो साँस के साथ जुड़ा होता है। पूरे शरीर को गरम करता है और सहनशक्ति बढ़ाता है।"
+    },
+    "adho": {
+     "n": "अधोमुख श्वान आसन",
+     "d": "कूल्हों को ऊपर और पीछे उठाएँ ताकि उल्टा V बने। पिंडलियों, जाँघों के पिछले हिस्से और कंधों को खींचता है।"
+    },
+    "vira2": {
+     "n": "वीरभद्र आसन 2",
+     "d": "पैर फैले हुए, आगे का घुटना मुड़ा हुआ, बाँहें फैली हुई और नज़र आगे के हाथ पर। पैरों की ताक़त बढ़ाता है।"
+    },
+    "trikona": {
+     "n": "त्रिकोण आसन",
+     "d": "पैर फैलाकर एक हाथ पिंडली तक और दूसरा छत की ओर ले जाएँ। शरीर के किनारे खोलता है।"
+    },
+    "setu": {
+     "n": "सेतु बंध आसन",
+     "d": "पीठ के बल लेटें, घुटने मोड़ें और कूल्हे ऊपर उठाएँ। नितंबों और पैरों के पिछले हिस्से को मज़बूत करता है।"
+    },
+    "baka": {
+     "n": "बक आसन",
+     "d": "हाथों पर संतुलन रखें और घुटने बाँहों के ऊपरी हिस्से पर टिकाएँ। बाँहों और पेट की ताक़त बढ़ाता है। तकिए के ऊपर अभ्यास करें।"
+    },
+    "vasistha": {
+     "n": "साइड प्लैंक",
+     "d": "एक हाथ और एक पैर के किनारे पर शरीर को सीधी रेखा में रखकर संतुलन बनाएँ। पेट और कंधों को मज़बूत करता है।"
+    },
+    "ardha": {
+     "n": "अर्ध चंद्र आसन",
+     "d": "एक पैर और एक हाथ पर संतुलन रखें जबकि दूसरा पैर कूल्हे के स्तर तक उठा हो। संतुलन और पैरों की ताक़त बेहतर करता है।"
+    },
+    "urdhva": {
+     "n": "चक्र आसन",
+     "d": "लेटी हुई स्थिति से ऊपर उठकर पूरा पीछे की ओर झुकाव बनाएँ। सीना और कंधे खोलता है। मज़बूत और लचीली रीढ़ और कलाइयाँ चाहिए।"
+    },
+    "sirsa": {
+     "n": "शीर्षासन",
+     "d": "बाँहों और सिर पर उल्टा संतुलन रखें। केवल प्रशिक्षक या सहारे के साथ करें। गर्दन, आँख या ब्लड प्रेशर की समस्या हो तो न करें।"
+    }
+   },
+   "ex": {
+    "wallpush": {
+     "n": "दीवार पर पुश-अप",
+     "d": "दीवार से एक बाँह की दूरी पर खड़े हों, कोहनियाँ मोड़कर सीना दीवार के पास लाएँ, फिर वापस धकेलें। सीने और बाँहों के लिए नरम शुरुआत।"
+    },
+    "squat": {
+     "n": "बॉडीवेट स्क्वाट",
+     "d": "पैर कंधों के बराबर खोलें, जैसे कुर्सी पर बैठ रहे हों वैसे पीछे बैठें, सीना ऊपर रखें और एड़ियों से ज़ोर लगाएँ।"
+    },
+    "glute": {
+     "n": "ग्लूट ब्रिज",
+     "d": "घुटने मोड़कर पीठ के बल लेटें, कूल्हे ऊपर उठाएँ और ऊपर पहुँचकर उन्हें सिकोड़ें।"
+    },
+    "march": {
+     "n": "जगह पर मार्च",
+     "d": "बाँहें हिलाते हुए एक-एक करके घुटने स्थिर गति से ऊपर उठाएँ। आसान कार्डियो वार्म-अप।"
+    },
+    "kneeplank": {
+     "n": "घुटनों पर प्लैंक",
+     "d": "बाँहों के सहारे सिर से घुटनों तक सीधी रेखा बनाएँ और पेट की मांसपेशियाँ कसी रखें।"
+    },
+    "pushup": {
+     "n": "पुश-अप",
+     "d": "हाथ कंधों के नीचे और शरीर सीधा रखकर सीना ज़मीन की ओर झुकाएँ और वापस ऊपर धकेलें। ज़रूरत हो तो घुटनों पर करें।"
+    },
+    "lunge": {
+     "n": "बारी-बारी से लंज",
+     "d": "आगे कदम बढ़ाएँ, दोनों घुटने लगभग 90 डिग्री मुड़ने तक नीचे जाएँ, फिर धकेलकर खड़े हो जाएँ।"
+    },
+    "plank": {
+     "n": "प्लैंक",
+     "d": "बाँहों या हाथों के सहारे सिर से एड़ियों तक सीधी रेखा रखें। कूल्हों को नीचे न गिरने दें।"
+    },
+    "climber": {
+     "n": "माउंटेन क्लाइंबर",
+     "d": "ऊँचे प्लैंक से एक के बाद एक घुटने तेज़ी से सीने की ओर लाएँ।"
+    },
+    "dip": {
+     "n": "कुर्सी पर डिप्स",
+     "d": "मज़बूत कुर्सी पर हाथ अपने पीछे रखें, कोहनियाँ मोड़कर शरीर नीचे लाएँ और ऊपर धकेलें। बाँह के पिछले हिस्से पर काम करती है।"
+    },
+    "burpee": {
+     "n": "बर्पी",
+     "d": "स्क्वाट करें, पैर पीछे प्लैंक में फेंकें, वापस आएँ और ऊपर कूदें। पूरे शरीर की कसरत जो दिल की धड़कन बढ़ाती है।"
+    },
+    "jumpsquat": {
+     "n": "जंप स्क्वाट",
+     "d": "स्क्वाट में नीचे जाएँ, फिर ऊपर कूदें और मुड़े घुटनों के साथ नरमी से उतरें। पैरों की ताक़त बढ़ाती है।"
+    },
+    "pike": {
+     "n": "पाइक पुश-अप",
+     "d": "कूल्हे ऊँचे रखकर उल्टे V की आकृति में कोहनियाँ मोड़ें और सिर को ज़मीन की ओर लाएँ। कंधों पर काम करती है।"
+    },
+    "hollow": {
+     "n": "होलो होल्ड",
+     "d": "पीठ के बल लेटें, कंधे और सीधे पैर ज़मीन से उठाएँ और कमर का निचला हिस्सा ज़मीन से दबा रखें।"
+    },
+    "split": {
+     "n": "स्प्लिट स्क्वाट",
+     "d": "एक पैर पीछे कुर्सी या बिस्तर पर रखें और आगे का घुटना नीचे लाएँ। मज़बूत पैर और संतुलन बनाती है।"
+    }
+   }
+  },
+  "food": {
+   "cats": {
+    "produce": {
+     "n": "फल और सब्ज़ियाँ",
+     "why": "विटामिन, खनिज और रेशा देती हैं। रोज़ अलग-अलग रंगों की 5 मात्राओं का लक्ष्य रखें।",
+     "items": [
+      "अमरूद",
+      "संतरे और किन्नू",
+      "सेब",
+      "पालक",
+      "गाजर",
+      "खीरा"
+     ]
+    },
+    "protein": {
+     "n": "प्रोटीन वाले खाद्य",
+     "why": "मांसपेशियाँ बनाते और मरम्मत करते हैं और देर तक पेट भरा रखते हैं।",
+     "items": [
+      "अंडे",
+      "दालें",
+      "चने",
+      "चिकन",
+      "मछली",
+      "लोबिया और राजमा"
+     ]
+    },
+    "grains": {
+     "n": "साबुत अनाज",
+     "why": "ऊर्जा धीरे-धीरे देते हैं और पाचन के लिए रेशा देते हैं।",
+     "items": [
+      "गेहूँ की रोटी",
+      "जई",
+      "ब्राउन राइस",
+      "दलिया",
+      "जौ",
+      "बाजरा"
+     ]
+    },
+    "dairy": {
+     "n": "डेयरी और कैल्शियम",
+     "why": "मज़बूत हड्डियों और दाँतों में मदद करते हैं। सादे और कम मीठे विकल्प चुनें।",
+     "items": [
+      "दूध",
+      "सादा दही",
+      "नमकीन लस्सी",
+      "पनीर",
+      "छाछ",
+      "थोड़ी मात्रा में चीज़"
+     ]
+    },
+    "fats": {
+     "n": "सेहतमंद चर्बी",
+     "why": "थोड़ी मात्रा में खाने पर दिल और दिमाग़ की रक्षा करती है।",
+     "items": [
+      "बादाम",
+      "अखरोट",
+      "जैतून का तेल",
+      "अलसी",
+      "चिया बीज",
+      "तैलीय मछली"
+     ]
+    },
+    "drinks": {
+     "n": "पेय",
+     "why": "पानी आपका मुख्य पेय होना चाहिए। दिन भर थोड़ा-थोड़ा पीते रहें।",
+     "items": [
+      "सादा पानी",
+      "बिना चीनी नींबू पानी",
+      "नारियल पानी",
+      "ग्रीन टी",
+      "छाछ",
+      "हर्बल चाय"
+     ]
+    }
+   },
+   "swaps": [
+    [
+     "सोडा या कोल्ड ड्रिंक",
+     "नींबू और पुदीने वाला पानी"
+    ],
+    [
+     "तला समोसा या पकौड़ा",
+     "भुने चने या बेक किए स्नैक्स"
+    ],
+    [
+     "सफ़ेद ब्रेड",
+     "गेहूँ की रोटी या ब्राउन ब्रेड"
+    ],
+    [
+     "चिप्स",
+     "भुने मेवे या मखाने"
+    ],
+    [
+     "पैकेट वाला जूस",
+     "एक साबुत फल"
+    ],
+    [
+     "मीठी चाय",
+     "कम या बिना चीनी की चाय"
+    ]
+   ],
+   "tips": [
+    "आधी थाली सब्ज़ियों से भरें।",
+    "नाश्ता न छोड़ें।",
+    "धीरे खाएँ और लगभग 80 प्रतिशत पेट भरने पर रुक जाएँ।",
+    "तेल कम इस्तेमाल करें। तलने की जगह ग्रिल करें, उबालें या बेक करें।",
+    "खाने के लेबल पढ़ें और चीनी और नमक देखें।"
+   ],
+   "limit": [
+    "मीठे पेय",
+    "तले हुए स्नैक्स",
+    "प्रोसेस्ड मांस",
+    "ज़्यादा नमक",
+    "मिठाई और बेकरी की चीज़ें"
+   ]
+  }
+ },
+ "ar": {
+  "ui": {
+   "nav_plan": "خطتي",
+   "nav_move": "اليوغا والتمارين",
+   "nav_food": "الغذاء الصحي",
+   "nav_label": "الأقسام",
+   "lang_label": "اللغة",
+   "hero_title": "عادات صحية لكل عمر",
+   "hero_lead": "اختر عمرك لتحصل على نظام غذائي وروتين صحي يومي وروتين للعناية بالبشرة مناسبة لك. ثم استكشف اليوغا والتمارين المنزلية والأطعمة الصحية اليومية.",
+   "age_label": "عمرك",
+   "years": "سنة",
+   "age_minus": "تقليل العمر",
+   "age_plus": "زيادة العمر",
+   "hint_default": "اكتب عمرك أو اختر فئة عمرية. تتغير خطتك فورًا.",
+   "hint_range": "يرجى إدخال عمر بين 5 و100.",
+   "hint_young": "للأطفال دون 5 سنوات احتياجات خاصة. يرجى استشارة طبيب الأطفال.",
+   "plan_for": "خطتك لفئة",
+   "stat_sleep": "النوم (ساعات)",
+   "stat_water": "الماء (أكواب)",
+   "stat_move": "النشاط (دقيقة/يوم)",
+   "tab_diet": "الغذاء",
+   "tab_health": "الروتين الصحي",
+   "tab_skin": "العناية بالبشرة",
+   "h_tips": "إرشادات الأكل",
+   "h_meals": "يوم نموذجي",
+   "breakfast": "الفطور",
+   "lunch": "الغداء",
+   "snack": "وجبة خفيفة",
+   "dinner": "العشاء",
+   "h_water": "الماء",
+   "h_limit": "قلّل من",
+   "h_habits": "العادات اليومية",
+   "h_checkups": "الفحوصات",
+   "h_am": "الصباح",
+   "h_pm": "المساء",
+   "h_weekly": "العناية الأسبوعية",
+   "h_avoid": "تجنّب",
+   "skin_note": "جرّب أي منتج جديد على مساحة صغيرة من الجلد أولًا. راجع طبيب الجلدية إذا استمرت المشكلة أكثر من بضعة أسابيع.",
+   "move_title": "اليوغا والتمارين المنزلية",
+   "move_sub": "لا حاجة إلى نادٍ رياضي أو معدات. اختر النوع والمستوى، وابدأ بالمستوى المبتدئ إذا كنت جديدًا.",
+   "m_yoga": "اليوغا",
+   "m_ex": "تمارين منزلية",
+   "m_type_label": "النوع",
+   "m_level_label": "المستوى",
+   "lvl1": "مبتدئ",
+   "lvl2": "متوسط",
+   "lvl3": "متقدم",
+   "u_sec": "ثانية",
+   "u_min": "دقيقة",
+   "u_rounds": "جولات",
+   "u_secSide": "ثانية لكل جانب",
+   "u_reps": "تكرار",
+   "u_repsSide": "تكرار لكل جانب",
+   "safe_title": "السلامة",
+   "safe_yoga": "سخّن جسمك أولًا ولا تجبر نفسك على أي وضعية. تنفّس ببطء وتجنّب أي وضعية تؤلمك. استشر الطبيب أولًا إذا كنتِ حاملًا أو لديك مشكلات في الظهر أو الرقبة أو القلب أو ضغط الدم. تعلّم الوضعيات المتقدمة مثل الوقوف على الرأس مع مدرب مؤهل.",
+   "safe_ex": "سخّن لمدة 5 دقائق ومدّد عضلاتك بعد التمرين. ارتح من 30 إلى 60 ثانية بين المجموعات وحافظ على استقامة ظهرك. توقف إذا شعرت بألم حاد، واستشر الطبيب أولًا إذا كان لديك مشكلة في القلب أو المفاصل أو ضغط الدم.",
+   "food_title": "دليل الغذاء الصحي",
+   "food_sub": "أطعمة بسيطة تعرفها، مصنفة حسب فائدتها لجسمك.",
+   "swap_title": "بدائل سهلة",
+   "tips_title": "كُل بذكاء",
+   "limit_title": "قلّل من",
+   "disclaimer": "يقدم «هيلثي وورلد» معلومات عامة عن العافية وهو ليس نصيحة طبية. إذا كان لديك مرض، أو كنتِ حاملًا، أو تتناول أدوية، فاستشر طبيبًا أو أخصائي تغذية قبل تغيير نظامك الغذائي أو تمارينك."
+  },
+  "groups": {
+   "g1": {
+    "name": "الأطفال",
+    "intro": "الأجسام النامية تحتاج إلى وجبات منتظمة ولعب كثير ونوم جيد.",
+    "diet": {
+     "goal": "امنحهم طاقة ثابتة للنمو والتعلم بوجبات منزلية بسيطة ومتوازنة.",
+     "tips": [
+      "قدّم الحليب أو الزبادي أو الجبن من مرتين إلى ثلاث مرات يوميًا لعظام قوية.",
+      "أضف أطعمة غنية بالحديد مثل العدس والبيض واللحم والخضروات الورقية الخضراء.",
+      "ضع الفاكهة والخضروات في كل وجبة ودع طفلك يختار بين خيارين."
+     ],
+     "meals": {
+      "b": "أومليت مع رغيف قمح كامل وكوب حليب",
+      "l": "عدس أو دجاج بالصلصة مع الخبز وسلطة خيار",
+      "s": "فاكهة أو حمص محمص أو وعاء صغير من الزبادي",
+      "d": "خضار مطبوخة مع الخبز أو الأرز ووعاء زبادي"
+     },
+     "water": "نحو 5 إلى 7 أكواب يوميًا، وأكثر في الطقس الحار أو بعد اللعب.",
+     "limit": "المشروبات الغازية والعصائر المعلبة والشيبس والحلويات. اجعلها للمناسبات القليلة."
+    },
+    "health": {
+     "habits": [
+      "حافظ على موعد ثابت للنوم والاستيقاظ كل يوم حتى في العطلات.",
+      "اللعب في الخارج 60 دقيقة على الأقل يوميًا.",
+      "غسل اليدين قبل الأكل وبعد استخدام الحمام، وتنظيف الأسنان مرتين يوميًا.",
+      "حدّد وقت الشاشات الترفيهية بنحو ساعة إلى ساعتين يوميًا."
+     ],
+     "checkups": "فحص سنوي لمتابعة النمو والنظر، وزيارة طبيب الأسنان كل 6 أشهر، والتطعيمات في مواعيدها."
+    },
+    "skin": {
+     "am": [
+      "اغسل الوجه بماء فاتر ومنظف لطيف خالٍ من العطور.",
+      "ضع مرطبًا خفيفًا إذا بدت البشرة جافة.",
+      "استخدم واقي الشمس بعامل 30 فأكثر على الوجه والأذنين والذراعين قبل الخروج."
+     ],
+     "pm": [
+      "اغسل الأوساخ والعرق بعد اللعب.",
+      "رطّب المناطق الجافة مثل المرفقين والركبتين والخدين.",
+      "حافظ على الأظافر قصيرة ونظيفة."
+     ],
+     "weekly": [
+      "الاستحمام مرة كل يومين على الأقل. لا حاجة إلى الفرك أو التقشير."
+     ],
+     "avoid": [
+      "المكياج ومنتجات مكافحة الشيخوخة والمكونات الفعالة القوية.",
+      "الصابون المعطر والماء الساخن جدًا."
+     ]
+    }
+   },
+   "g2": {
+    "name": "المراهقون",
+    "intro": "طفرات النمو والهرمونات ترفع حاجتك إلى الطاقة والحديد والكالسيوم.",
+    "diet": {
+     "goal": "زوّد نموك ودراستك ورياضتك بالطاقة عبر وجبات منتظمة بدلًا من تفويت الوجبات أو الحميات القاسية.",
+     "tips": [
+      "لا تفوّت الفطور أبدًا. فهو يساعدك على التركيز في الصف.",
+      "احصل على الحديد من العدس والفاصوليا واللحم والسبانخ، وعلى الكالسيوم من الحليب والزبادي.",
+      "اختر وجبات خفيفة منزلية مثل المكسرات والفاكهة أو سلطة الحمص بدل الوجبات السريعة ومشروبات الطاقة."
+     ],
+     "meals": {
+      "b": "أومليت أو شوفان مع الحليب وفاكهة",
+      "l": "دجاج أو عدس مع رغيفين وسلطة",
+      "s": "حفنة من المكسرات أو موزة أو زبادي",
+      "d": "خضار مع الأرز أو الخبز وبروتين مثل البيض أو السمك أو العدس"
+     },
+     "water": "نحو 7 إلى 8 أكواب يوميًا، وأكثر أثناء الرياضة.",
+     "limit": "مشروبات الطاقة والمشروبات الغازية والوجبات السريعة المتكررة والحميات القاسية."
+    },
+    "health": {
+     "habits": [
+      "نم من 8 إلى 10 ساعات وأبعد هاتفك عن سريرك.",
+      "كن نشيطًا 60 دقيقة على الأقل يوميًا بلعبة أو تمرين تحبه.",
+      "تحدث إلى أحد الوالدين أو معلم أو طبيب إذا استمر التوتر أو الحزن أكثر من أسبوعين.",
+      "استحم يوميًا وارتدِ ملابس نظيفة وابتعد عن التبغ والسجائر الإلكترونية."
+     ],
+     "checkups": "فحص سنوي، وفحص للنظر، وزيارة طبيب الأسنان كل 6 أشهر، وفحص الحديد إذا كنت تشعر بالتعب كثيرًا."
+    },
+    "skin": {
+     "am": [
+      "اغسل وجهك بمنظف جل أو رغوي لطيف.",
+      "ضع مرطبًا خاليًا من الزيوت (غير مسبب لانسداد المسام).",
+      "استخدم واقي الشمس بعامل 30 فأكثر حتى في الأيام الغائمة."
+     ],
+     "pm": [
+      "اغسل وجهك مرة أخرى، خاصة بعد الرياضة أو التعرق.",
+      "ضع القليل من بنزويل بيروكسيد 2.5% أو حمض الساليسيليك على الحبوب عند الحاجة.",
+      "رطّب بخفة بمنتج خالٍ من الزيوت."
+     ],
+     "weekly": [
+      "بدّل غطاء الوسادة والمنشفة مرة في الأسبوع.",
+      "قشّر بلطف مرة واحدة أسبوعيًا كحد أقصى، وفقط إذا لم تكن بشرتك متهيجة."
+     ],
+     "avoid": [
+      "نكش الحبوب أو عصرها. فهذا يسبب الندوب.",
+      "المقشرات القاسية ومعجون الأسنان على الحبوب والمكياج الثقيل.",
+      "غسل الوجه أكثر من مرتين يوميًا."
+     ]
+    }
+   },
+   "g3": {
+    "name": "الشباب",
+    "intro": "ابنِ اليوم عادات تحمي قلبك وعظامك وبشرتك لعقود.",
+    "diet": {
+     "goal": "حافظ على ثبات طاقتك وصحة وزنك بأطباق متوازنة وطبخ منزلي.",
+     "tips": [
+      "املأ نصف طبقك بالخضروات والفاكهة، وربعه بالبروتين وربعه بالحبوب الكاملة.",
+      "أضف البروتين (بيض، عدس، دجاج، سمك، زبادي) إلى كل وجبة.",
+      "اطبخ في المنزل أكثر واستخدم زيتًا أقل."
+     ],
+     "meals": {
+      "b": "شوفان أو بيض مع رغيف قمح كامل وفاكهة",
+      "l": "دجاج مشوي أو عدس مع رغيف أو اثنين أو أرز بني وسلطة",
+      "s": "فاكهة أو حمص محمص أو مكسرات غير مملحة",
+      "d": "خضار خفيفة مع بروتين قبل النوم بساعتين إلى ثلاث"
+     },
+     "water": "نحو 8 إلى 10 أكواب يوميًا (2 إلى 2.5 لتر).",
+     "limit": "المشروبات المحلاة والوجبات الخفيفة المقلية والوجبات الثقيلة المتأخرة ليلًا."
+    },
+    "health": {
+     "habits": [
+      "نم من 7 إلى 9 ساعات في موعد منتظم.",
+      "مارس 150 دقيقة من التمارين أسبوعيًا وخذ استراحة مشي قصيرة كل ساعة من العمل المكتبي.",
+      "تعامل مع التوتر بالتنفس العميق أو الصلاة أو التأمل والهوايات وقضاء الوقت مع الأصدقاء.",
+      "تجنب التدخين وابتعد عن الشاشات في الساعة الأخيرة قبل النوم."
+     ],
+     "checkups": "افحص ضغط الدم والسكر والوزن مرة في السنة، وزُر طبيب الأسنان كل 6 أشهر."
+    },
+    "skin": {
+     "am": [
+      "نظّف بشرتك بمنظف لطيف.",
+      "ضع سيروم فيتامين سي (اختياري) ومرطبًا خفيفًا.",
+      "اختم بواقي شمس بعامل 30 إلى 50 وأعد وضعه كل 2 إلى 3 ساعات في الخارج."
+     ],
+     "pm": [
+      "أزل واقي الشمس والمكياج أولًا ثم نظّف بشرتك مرة أخرى.",
+      "ابدأ بالريتينول من 2 إلى 3 ليالٍ أسبوعيًا بتركيز منخفض (تجنبه أثناء الحمل).",
+      "ضع المرطب."
+     ],
+     "weekly": [
+      "قشّر بلطف مرة أو مرتين أسبوعيًا بحمض AHA أو BHA خفيف، وليس بمقشر خشن."
+     ],
+     "avoid": [
+      "النوم بالمكياج.",
+      "التعرض للشمس بغرض التسمير وترك واقي الشمس."
+     ]
+    }
+   },
+   "g4": {
+    "name": "البالغون",
+    "intro": "يتباطأ الأيض، لذا تحتاج صحة القلب والسكر والعظام إلى اهتمام أكبر.",
+    "diet": {
+     "goal": "حافظ على ثبات وزنك واحمِ قلبك بالألياف والبروتين الخالي من الدهون وقلة الملح والسكر.",
+     "tips": [
+      "اختر الحبوب الكاملة (خبز القمح الكامل، الشوفان، البرغل) بدل الخبز الأبيض والأرز الأبيض.",
+      "تناول السمك أو الدجاج أو العدس، واستخدم زيت الزيتون أو الكانولا بكميات قليلة.",
+      "اجعل الملح أقل من 5 غرامات (نحو ملعقة صغيرة) يوميًا وقلّل الحلويات والشاي المحلى."
+     ],
+     "meals": {
+      "b": "شوفان أو أومليت بالخضار مع رغيف قمح كامل",
+      "l": "عدس أو سمك مع الخضار ورغيف وسلطة",
+      "s": "تفاحة أو جوافة أو حفنة صغيرة من اللوز",
+      "d": "شوربة خفيفة أو دجاج مشوي أو خضار مطبوخة. تجنّب الوجبات الثقيلة المتأخرة"
+     },
+     "water": "نحو 8 إلى 9 أكواب يوميًا، وأكثر في الصيف.",
+     "limit": "الدقيق الأبيض والوجبات المقلية والمشروبات المحلاة والملح الزائد."
+    },
+    "health": {
+     "habits": [
+      "نم من 7 إلى 9 ساعات والتزم بموعد ثابت للنوم.",
+      "امشِ أو اركب الدراجة 30 دقيقة في معظم الأيام ومارس تمارين القوة مرتين أسبوعيًا.",
+      "مدّد جسمك يوميًا وخذ استراحات من الجلوس لحماية ظهرك.",
+      "خصص وقتًا للراحة والعائلة وتحدث عن التوتر مبكرًا."
+     ],
+     "checkups": "افحص ضغط الدم والسكر والكوليسترول والعينين كل عام، واسأل طبيبك عن الفحوصات الدورية التي تحتاجها."
+    },
+    "skin": {
+     "am": [
+      "نظّف بلطف.",
+      "ضع سيروم مضادًا للأكسدة (فيتامين سي) ومرطبًا.",
+      "استخدم واقي شمس بعامل 50 كل يوم."
+     ],
+     "pm": [
+      "نظّف بشرتك وضع تونر إن أحببت.",
+      "استخدم سيروم ريتينول أو نياسيناميد. ابدأ ببطء، بضع ليالٍ في الأسبوع.",
+      "ضع كريمًا ليليًا أغنى وكريمًا للعينين."
+     ],
+     "weekly": [
+      "قشّر بلطف مرة في الأسبوع واستخدم قناعًا مرطبًا."
+     ],
+     "avoid": [
+      "التدخين، فهو يسرّع ظهور التجاعيد.",
+      "الماء الساخن والمقشرات القاسية التي تجفف البشرة."
+     ]
+    }
+   },
+   "g5": {
+    "name": "منتصف العمر",
+    "intro": "تحتاج العظام والعضلات والبشرة إلى عناية إضافية، والوقاية هي الأهم.",
+    "diet": {
+     "goal": "احمِ قلبك وعظامك وعضلاتك بالكالسيوم وفيتامين د والألياف وكمية كافية من البروتين.",
+     "tips": [
+      "تناول أطعمة الكالسيوم وفيتامين د يوميًا: الحليب والزبادي والأسماك الصغيرة والبيض وقليلًا من شمس الصباح.",
+      "أضف الألياف من الخضار والفاكهة والعدس والحبوب الكاملة لصحة الهضم والقلب.",
+      "قلّل الملح والسكر، وخذ الدهون الصحية من زيت الزيتون والمكسرات والسمك."
+     ],
+     "meals": {
+      "b": "شوفان أو برغل بالحليب والفاكهة",
+      "l": "عدس أو سمك مع الخضار ورغيف وزبادي",
+      "s": "حمص محمص أو فاكهة أو جوز",
+      "d": "شوربة خضار أو طبخة خفيفة مع حصة صغيرة من البروتين"
+     },
+     "water": "نحو 8 أكواب يوميًا، حتى لو لم تشعر بالعطش.",
+     "limit": "المخللات والوجبات الخفيفة المالحة والحلويات والأطعمة المقلية والوجبات الثقيلة ليلًا."
+    },
+    "health": {
+     "habits": [
+      "نم من 7 إلى 9 ساعات والتزم بروتين هادئ قبل النوم.",
+      "امشِ 30 دقيقة يوميًا وأضف تمارين خفيفة للقوة والتوازن من 2 إلى 3 مرات أسبوعيًا.",
+      "حافظ على ضغط الدم والسكر تحت السيطرة وتناول أدويتك حسب التعليمات.",
+      "حافظ على علاقاتك الاجتماعية ونشّط ذهنك بالقراءة أو الصلاة أو الهوايات أو الحدائق."
+     ],
+     "checkups": "افحص ضغط الدم والسكر والكوليسترول والعينين والسمع كل عام. اسأل عن كثافة العظام والفحوصات الدورية واللقاحات."
+    },
+    "skin": {
+     "am": [
+      "استخدم منظفًا كريميًا لطيفًا.",
+      "ضع سيروم مرطبًا (حمض الهيالورونيك) ومرطبًا بالسيراميد.",
+      "ضع واقي شمس بعامل 50 على الوجه والرقبة واليدين."
+     ],
+     "pm": [
+      "نظّف بلطف بماء فاتر.",
+      "استخدم ريتينويد خفيفًا أو سيروم ببتيدات بضع ليالٍ في الأسبوع.",
+      "اختم بكريم ليلي غني."
+     ],
+     "weekly": [
+      "قشّر بلطف مرة أسبوعيًا أو أقل، لأن البشرة أصبحت أرق.",
+      "افحص بشرتك كل شهر وأرِ الطبيب أي شامة جديدة أو متغيرة."
+     ],
+     "avoid": [
+      "الاستحمام الطويل بالماء الساخن والصابون القاسي.",
+      "التدخين والتعرض الزائد للشمس."
+     ]
+    }
+   },
+   "g6": {
+    "name": "كبار السن",
+    "intro": "الحركة اليومية اللطيفة والبروتين الكافي والروتين الآمن تساعدك على الاستقلالية.",
+    "diet": {
+     "goal": "حافظ على قوة العضلات وثبات الطاقة بوجبات صغيرة غنية بالبروتين وسهلة الهضم.",
+     "tips": [
+      "تناول البروتين في كل وجبة (بيض، عدس، زبادي، سمك، دجاج) لحماية العضلات.",
+      "تناول 4 إلى 5 وجبات صغيرة إذا بدت الوجبات الكبيرة ثقيلة، واختر أطعمة طرية وسهلة المضغ.",
+      "أدرج أطعمة الكالسيوم وفيتامين د وب12 واسأل طبيبك عن المكملات."
+     ],
+     "meals": {
+      "b": "برغل أو شوفان طري بالحليب وموزة",
+      "l": "عدس طري أو دجاج مفروم مع رغيف صغير وخضار مطبوخة",
+      "s": "زبادي أو فاكهة مطبوخة أو بضع حبات لوز منقوع",
+      "d": "أرز وعدس بالخضار أو شوربة مع بيضة"
+     },
+     "water": "نحو 6 إلى 8 أكواب يوميًا. اشرب رشفات منتظمة لأن الشعور بالعطش يقل مع العمر.",
+     "limit": "الملح الزائد والأطعمة المقلية والمشروبات المحلاة وتفويت الوجبات."
+    },
+    "health": {
+     "habits": [
+      "امشِ من 20 إلى 30 دقيقة يوميًا، وقسّمها إلى مشيات قصيرة إذا لزم الأمر.",
+      "مارس تمارين لطيفة للتوازن وقوة الساقين لمنع السقوط.",
+      "تناول أدويتك في موعدها وراجعها مع طبيبك بانتظام.",
+      "أبقِ الأرضيات خالية من العوائق واستخدم إضاءة ليلية وحافظ على التواصل مع العائلة والأصدقاء."
+     ],
+     "checkups": "زُر طبيبك مرتين في السنة على الأقل. افحص ضغط الدم والسكر والعينين والسمع والأسنان، وخذ لقاح الإنفلونزا السنوي وغيره مما ينصح به طبيبك."
+    },
+    "skin": {
+     "am": [
+      "اغسل بماء فاتر ومنظف كريمي خالٍ من العطور.",
+      "جفّف بالتربيت وضع مرطبًا غنيًا فورًا.",
+      "ضع واقي شمس بعامل 30 فأكثر على الجلد المكشوف وبلسم شفاه."
+     ],
+     "pm": [
+      "نظّف بلطف وجفّف بالتربيت دون فرك.",
+      "ضع كريمًا غنيًا بالسيراميد أو اليوريا على الذراعين والساقين واليدين.",
+      "ضع قليلًا من الفازلين على الكعبين والمرفقين الجافين."
+     ],
+     "weekly": [
+      "افحص بشرتك وقدميك، وأرِ الطبيب أي بقعة جديدة أو متغيرة أو جرحًا لا يلتئم."
+     ],
+     "avoid": [
+      "الماء الساخن والصابون القاسي والمقشرات القوية.",
+      "حك البشرة الجافة المثيرة للحكة. راجع الطبيب إذا استمرت الحكة."
+     ]
+    }
+   }
+  },
+  "move": {
+   "yoga": {
+    "tadasana": {
+     "n": "وضعية الجبل",
+     "d": "قف منتصبًا وقدماك متلاصقتان وذراعاك إلى جانبيك. أطِل عمودك الفقري وتنفّس بانتظام. تحسّن القوام."
+    },
+    "marjari": {
+     "n": "القطة والبقرة",
+     "d": "على يديك وركبتيك، قوّس ظهرك للداخل مع الشهيق ثم دوّره للأعلى مع الزفير. تسخّن العمود الفقري."
+    },
+    "balasana": {
+     "n": "وضعية الطفل",
+     "d": "اجلس على كعبيك وانحنِ للأمام وأسند جبهتك على الأرض. ترخي الظهر وتهدئ العقل."
+    },
+    "bhujanga": {
+     "n": "وضعية الكوبرا",
+     "d": "استلقِ على بطنك واضغط بكفيك على الأرض وارفع صدرك برفق. تقوّي الظهر."
+    },
+    "sukhasana": {
+     "n": "الجلسة السهلة مع التنفس",
+     "d": "اجلس متربعًا وظهرك مستقيم وتنفّس ببطء من الأنف. تقلّل التوتر."
+    },
+    "surya": {
+     "n": "تحية الشمس",
+     "d": "سلسلة متدفقة من 12 وضعية مرتبطة بالتنفس. تسخّن الجسم كله وتبني التحمل."
+    },
+    "adho": {
+     "n": "وضعية الكلب المقلوب",
+     "d": "ارفع وركيك للأعلى والخلف لتشكل حرف V مقلوبًا. تمدّد أوتار الركبة والسمانة والكتفين."
+    },
+    "vira2": {
+     "n": "وضعية المحارب الثانية",
+     "d": "قدمان متباعدتان وركبة أمامية مثنية وذراعان ممدودتان والنظر فوق اليد الأمامية. تبني قوة الساقين."
+    },
+    "trikona": {
+     "n": "وضعية المثلث",
+     "d": "والساقان متباعدتان، مدّ يدًا إلى ساقك والأخرى نحو السقف. تفتح جانبي الجسم."
+    },
+    "setu": {
+     "n": "وضعية الجسر",
+     "d": "استلقِ على ظهرك وثنِ ركبتيك وارفع وركيك. تقوّي المؤخرة وخلف الساقين."
+    },
+    "baka": {
+     "n": "وضعية الغراب",
+     "d": "وازن جسمك على يديك وركبتاك مستندتان على أعلى ذراعيك. تبني قوة الذراعين والبطن. تمرّن فوق وسادة."
+    },
+    "vasistha": {
+     "n": "اللوح الجانبي",
+     "d": "وازن على يد واحدة وحافة قدم واحدة وجسمك في خط مستقيم. تقوّي البطن والكتفين."
+    },
+    "ardha": {
+     "n": "وضعية نصف القمر",
+     "d": "وازن على ساق واحدة ويد واحدة بينما ترتفع الساق الأخرى بمستوى الورك. تحسّن التوازن وقوة الساقين."
+    },
+    "urdhva": {
+     "n": "وضعية العجلة",
+     "d": "ادفع جسمك من وضع الاستلقاء إلى قوس كامل للخلف. تفتح الصدر والكتفين. تحتاج عمودًا فقريًا ومعصمين قويين ومرنين."
+    },
+    "sirsa": {
+     "n": "الوقوف على الرأس",
+     "d": "وازن مقلوبًا على ساعديك ورأسك. فقط مع مدرب أو دعم. تجنبها إذا كان لديك مشكلة في الرقبة أو العين أو ضغط الدم."
+    }
+   },
+   "ex": {
+    "wallpush": {
+     "n": "ضغط الحائط",
+     "d": "قف على بعد ذراع من الحائط، وثنِ مرفقيك لتقرّب صدرك منه ثم ادفع للخلف. بداية لطيفة للصدر والذراعين."
+    },
+    "squat": {
+     "n": "القرفصاء بوزن الجسم",
+     "d": "قدماك بعرض الكتفين، اجلس للخلف كأنك تجلس على كرسي، وأبقِ صدرك مرفوعًا وادفع بكعبيك."
+    },
+    "glute": {
+     "n": "جسر المؤخرة",
+     "d": "استلقِ على ظهرك وركبتاك مثنيتان، وارفع وركيك واشدّ عضلات المؤخرة في الأعلى."
+    },
+    "march": {
+     "n": "المشي في المكان",
+     "d": "ارفع ركبتيك واحدة تلو الأخرى بإيقاع ثابت مع تحريك ذراعيك. إحماء كارديو بسيط."
+    },
+    "kneeplank": {
+     "n": "اللوح على الركبتين",
+     "d": "حافظ على خط مستقيم من الرأس إلى الركبتين على ساعديك وشدّ عضلات البطن."
+    },
+    "pushup": {
+     "n": "تمرين الضغط",
+     "d": "ضع يديك تحت كتفيك وجسمك مستقيم، اخفض صدرك نحو الأرض ثم ادفع للأعلى. نفّذه على ركبتيك إن لزم."
+    },
+    "lunge": {
+     "n": "الطعنات المتبادلة",
+     "d": "خطُ خطوة للأمام، انزل حتى تنثني الركبتان بزاوية 90 درجة تقريبًا ثم ادفع للعودة إلى الوقوف."
+    },
+    "plank": {
+     "n": "اللوح",
+     "d": "حافظ على خط مستقيم من الرأس إلى الكعبين على ساعديك أو يديك. لا تدع وركيك يهبطان."
+    },
+    "climber": {
+     "n": "متسلق الجبال",
+     "d": "من وضع اللوح العالي، اسحب ركبتيك نحو صدرك واحدة تلو الأخرى بسرعة."
+    },
+    "dip": {
+     "n": "تمرين الكرسي للذراعين",
+     "d": "ضع يديك على كرسي ثابت خلفك، وثنِ مرفقيك لتخفض جسمك ثم ادفع للأعلى. يعمل على الجزء الخلفي من الذراعين."
+    },
+    "burpee": {
+     "n": "البيربي",
+     "d": "اجلس القرفصاء، اقفز بقدميك للخلف إلى وضع اللوح، ارجع ثم اقفز للأعلى. تمرين للجسم كله يرفع نبض القلب."
+    },
+    "jumpsquat": {
+     "n": "القرفصاء بالقفز",
+     "d": "انزل في القرفصاء ثم اقفز للأعلى واهبط بلطف على ركبتين مثنيتين. يبني قوة الساقين."
+    },
+    "pike": {
+     "n": "ضغط البايك",
+     "d": "وركاك مرتفعان على شكل V مقلوب، ثنِ مرفقيك لتنزل برأسك نحو الأرض. يستهدف الكتفين."
+    },
+    "hollow": {
+     "n": "الثبات المجوّف",
+     "d": "استلقِ على ظهرك، وارفع كتفيك وساقيك المستقيمتين عن الأرض وأبقِ أسفل ظهرك ملتصقًا بها."
+    },
+    "split": {
+     "n": "القرفصاء المنفصل",
+     "d": "ضع قدمًا خلفك على كرسي أو سرير واخفض ركبتك الأمامية. يبني ساقين قويتين وتوازنًا."
+    }
+   }
+  },
+  "food": {
+   "cats": {
+    "produce": {
+     "n": "الفواكه والخضروات",
+     "why": "تمنح الفيتامينات والمعادن والألياف. استهدف 5 حصص يوميًا بألوان مختلفة.",
+     "items": [
+      "الجوافة",
+      "البرتقال واليوسفي",
+      "التفاح",
+      "السبانخ",
+      "الجزر",
+      "الخيار"
+     ]
+    },
+    "protein": {
+     "n": "الأطعمة الغنية بالبروتين",
+     "why": "تبني العضلات وتصلحها وتبقيك شبعان لفترة أطول.",
+     "items": [
+      "البيض",
+      "العدس",
+      "الحمص",
+      "الدجاج",
+      "السمك",
+      "الفاصوليا واللوبيا"
+     ]
+    },
+    "grains": {
+     "n": "الحبوب الكاملة",
+     "why": "تطلق الطاقة ببطء وتمنح الألياف للهضم.",
+     "items": [
+      "خبز القمح الكامل",
+      "الشوفان",
+      "الأرز البني",
+      "البرغل",
+      "الشعير",
+      "الدخن"
+     ]
+    },
+    "dairy": {
+     "n": "الألبان والكالسيوم",
+     "why": "تدعم العظام والأسنان القوية. اختر الأنواع الطبيعية قليلة السكر.",
+     "items": [
+      "الحليب",
+      "الزبادي الطبيعي",
+      "اللبن المملح",
+      "الجبن الأبيض",
+      "اللبن الرائب",
+      "الجبن بكميات قليلة"
+     ]
+    },
+    "fats": {
+     "n": "الدهون الصحية",
+     "why": "تحمي القلب والدماغ عند تناولها بكميات قليلة.",
+     "items": [
+      "اللوز",
+      "الجوز",
+      "زيت الزيتون",
+      "بذور الكتان",
+      "بذور الشيا",
+      "الأسماك الدهنية"
+     ]
+    },
+    "drinks": {
+     "n": "المشروبات",
+     "why": "يجب أن يكون الماء مشروبك الرئيسي. اشربه رشفات على مدار اليوم.",
+     "items": [
+      "الماء العادي",
+      "ماء بالليمون بدون سكر",
+      "ماء جوز الهند",
+      "الشاي الأخضر",
+      "اللبن الرائب",
+      "شاي الأعشاب"
+     ]
+    }
+   },
+   "swaps": [
+    [
+     "مشروب غازي",
+     "ماء بالليمون والنعناع"
+    ],
+    [
+     "سمبوسة أو بكورا مقلية",
+     "حمص محمص أو وجبات خفيفة مخبوزة"
+    ],
+    [
+     "الخبز الأبيض",
+     "خبز القمح الكامل أو الخبز البني"
+    ],
+    [
+     "الشيبس",
+     "مكسرات محمصة أو فشار بدون زبدة"
+    ],
+    [
+     "العصير المعلب",
+     "ثمرة فاكهة كاملة"
+    ],
+    [
+     "الشاي المحلى",
+     "شاي بسكر أقل أو بدون سكر"
+    ]
+   ],
+   "tips": [
+    "املأ نصف طبقك بالخضروات.",
+    "لا تفوّت الفطور.",
+    "كُل ببطء وتوقف عندما تشبع بنحو 80%.",
+    "استخدم زيتًا أقل. اشوِ أو اسلق أو اخبز بدل القلي.",
+    "اقرأ ملصقات الأغذية وتحقق من السكر والملح."
+   ],
+   "limit": [
+    "المشروبات المحلاة",
+    "الوجبات الخفيفة المقلية",
+    "اللحوم المصنعة",
+    "الملح الزائد",
+    "الحلويات والمخبوزات"
+   ]
+  }
+ }
+}
